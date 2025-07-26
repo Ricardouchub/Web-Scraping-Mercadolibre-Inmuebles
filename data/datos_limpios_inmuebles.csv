@@ -1,0 +1,2017 @@
+﻿id,Moneda,Precio,Dormitorios,Banos,Superficie_m2,Direccion,Comuna
+0,UF,2516,2,2,53.0,Bulnes,Santiago
+1,UF,2245,2,2,52.0,Dieciocho,Santiago
+2,UF,2160,2,2,62.0,Bogotá - Sierra Bella,Santiago
+3,UF,3092,1,1,32.0,Santa Isabel,Santiago
+4,UF,2630,2,2,63.0,Santa Isabel,Santiago
+5,UF,2671,2,2,58.0,Barrio República,Santiago
+6,UF,1990,3,2,86.0,Ejército - Toesca,Santiago
+7,UF,2390,2,2,62.0,Parque O'Higgins,Santiago
+8,UF,2367,3,2,67.0,Santa Isabel,Santiago
+9,UF,2557,2,2,50.0,Parque O'Higgins,Santiago
+10,UF,2286,2,2,55.0,Centro Histórico De Santiago,Santiago
+11,UF,2268,2,2,48.0,Parque Los Reyes,Santiago
+12,UF,2290,2,2,52.0,Santa Isabel,Santiago
+13,UF,2576,2,2,47.0,San Diego,Santiago
+14,UF,1977,2,1,44.0,Barrio República,Santiago
+15,UF,2811,2,2,56.0,Bogotá - Sierra Bella,Santiago
+16,UF,2125,2,1,51.0,Bogotá - Sierra Bella,Santiago
+17,UF,2450,2,2,65.0,Bogotá - Sierra Bella,Santiago
+18,UF,2928,2,2,49.0,Barrio República,Santiago
+19,UF,2609,2,2,58.0,San Diego,Santiago
+20,UF,2860,2,2,50.0,Santa Isabel,Santiago
+21,UF,2271,2,2,48.0,Santa Isabel,Santiago
+22,UF,1782,2,2,43.0,Barrio República,Santiago
+23,UF,2307,2,2,66.0,PROYECTO | Departamentos en venta | Santa Rosa 1350 | UF | 2.307 | 1 a 2 dormitorios | 1 a 2 baños | 19 - 66 m² útiles | Santa Rosa 1350,Santiago
+24,UF,2285,2,2,55.0,Barrio República,Santiago
+25,UF,3379,2,2,57.0,Centro Histórico De Santiago,Santiago
+26,UF,2590,2,2,52.0,Centro Histórico De Santiago,Santiago
+27,UF,2437,3,3,74.0,Parque Almagro,Santiago
+28,UF,2701,1,1,36.0,Ejército - Toesca,Santiago
+29,UF,2154,3,2,66.0,Parque Los Reyes,Santiago
+30,UF,3022,2,2,50.0,Bogotá - Sierra Bella,Santiago
+31,UF,2400,2,2,48.0,Parque Los Reyes,Santiago
+32,UF,2540,2,2,51.0,Barrio Brasil,Santiago
+33,UF,2350,2,2,50.0,Santa Isabel,Santiago
+34,UF,2727,2,2,53.0,San Joaquín,Santiago
+35,UF,3308,2,2,57.0,Franklin - Biobío,Santiago
+36,UF,2153,2,2,50.0,Barrio Brasil,Santiago
+37,UF,1957,3,2,62.0,Parque Los Reyes,Santiago
+38,UF,2118,2,2,51.0,Ejército - Toesca,Santiago
+39,UF,2419,2,2,60.0,Barrio República,Santiago
+40,UF,2090,2,2,49.0,Bulnes,Santiago
+41,UF,2983,2,2,48.0,Barrio Diez De Julio,Santiago
+42,UF,2625,2,2,45.0,Santa Isabel,Santiago
+43,UF,2415,2,2,65.0,Centro Histórico De Santiago,Santiago
+44,UF,2636,2,2,61.0,Parque Los Reyes,Santiago
+45,UF,3047,3,3,98.0,Santa Isabel,Santiago
+46,UF,2832,2,2,48.0,Santa Isabel,Santiago
+47,UF,2841,2,2,58.0,Santa Isabel,Santiago
+48,UF,1646,2,2,62.0,Parque O'Higgins,Santiago
+49,UF,2722,2,2,50.0,San Diego,Santiago
+50,UF,2532,2,2,49.0,Santa Isabel,Santiago
+51,UF,2612,2,2,57.0,Parque Almagro,Santiago
+52,UF,2290,2,2,52.0,Bogotá - Sierra Bella,Santiago
+53,UF,2455,3,2,59.0,Parque O'Higgins,Santiago
+54,UF,3137,2,2,46.0,Santa Isabel,Santiago
+55,UF,3579,2,2,52.0,Parque Almagro,Santiago
+56,UF,1850,2,1,45.0,Parque Los Reyes,Santiago
+57,UF,2909,2,2,57.0,Barrio Brasil,Santiago
+58,UF,1880,1,1,32.0,Parque O'Higgins,Santiago
+59,UF,1990,2,2,51.0,Barrio República,Santiago
+60,UF,2601,2,2,53.0,Santa Isabel,Santiago
+61,UF,3023,2,2,46.0,Parque O'Higgins,Santiago
+62,UF,2700,1,1,49.0,Centro Histórico De Santiago,Santiago
+63,UF,2845,2,1,45.0,Barrio Brasil,Santiago
+64,UF,2240,2,2,52.0,Barrio Diez De Julio,Santiago
+65,UF,4097,2,2,59.0,Bulnes,Santiago
+66,UF,13500,5,6,258.0,Centro Histórico De Santiago,Santiago
+67,UF,16150,4,4,292.0,Centro Histórico De Santiago,Santiago
+68,UF,2870,2,2,60.0,Centro Histórico De Santiago,Santiago
+69,UF,3000,3,2,68.0,Departamento en venta | Amplio 3 D En Metro Cal Y Canto | Por Engel & Völkers Ñuñoa | UF | 3.000 | 3 dormitorios | 2 baños | 68 m² útiles | Centro Histórico De Santiago,Santiago
+70,$,105000000,2,2,51.0,Centro Histórico De Santiago,Santiago
+71,$,150000000,5,2,120.0,Bulnes,Santiago
+72,UF,2890,1,1,41.0,Parque Almagro,Santiago
+73,UF,3000,1,1,47.0,Centro Histórico De Santiago,Santiago
+74,UF,3250,2,2,56.0,Santa Isabel,Santiago
+75,UF,2950,3,1,67.0,Barrio República,Santiago
+76,UF,2290,1,1,34.0,Barrio Lastarria,Santiago
+77,UF,1600,2,1,40.0,Parque Los Reyes,Santiago
+78,UF,2000,1,1,31.0,San Diego,Santiago
+79,UF,2190,1,1,2.0,Parque Almagro,Santiago
+80,UF,8500,3,2,164.0,Centro Histórico De Santiago,Santiago
+81,$,47000000,1,1,25.0,Centro Histórico De Santiago,Santiago
+82,UF,3250,2,2,49.0,Barrio Brasil,Santiago
+83,UF,2500,1,1,43.0,Santa Isabel,Santiago
+84,UF,1900,1,1,38.0,Departamento en venta | Venta Departamento Sector Rondizzonni | Por Engel & Völkers Ñuñoa | UF | 1.900 | 1 dormitorio | 1 baño | 38 m² útiles | Parque O'Higgins,Santiago
+85,UF,2700,2,1,43.0,Centro Histórico De Santiago,Santiago
+86,UF,1890,1,1,30.0,Parque O'Higgins,Santiago
+87,UF,4200,3,2,77.0,Departamento en venta | Depto. Vergara 3d / Metro Toesca | Por Engel & Völkers Ñuñoa | UF | 4.200 | 3 dormitorios | 2 baños | 77 m² útiles | Ejército - Toesca,Santiago
+88,UF,2490,2,2,50.0,Centro Histórico De Santiago,Santiago
+89,UF,2690,2,1,50.0,Santa Isabel,Santiago
+90,$,95000000,2,2,55.0,Santa Isabel,Santiago
+91,UF,3400,3,2,67.0,Franklin - Biobío,Santiago
+92,UF,3050,2,2,56.0,Santa Isabel,Santiago
+93,UF,2500,2,1,53.0,Parque Almagro,Santiago
+94,UF,3550,2,2,58.0,Santa Isabel,Santiago
+95,UF,4350,4,2,137.0,Parque Almagro,Santiago
+96,UF,2200,1,1,33.0,Parque Los Reyes,Santiago
+97,UF,2100,1,1,42.0,Centro Histórico De Santiago,Santiago
+98,UF,1890,1,1,38.0,Centro Histórico De Santiago,Santiago
+99,UF,2761,2,2,41.0,Santa Isabel,Santiago
+100,UF,1885,1,1,30.0,San Diego,Santiago
+101,UF,2740,2,2,50.0,Centro Histórico De Santiago,Santiago
+102,UF,1980,2,1,37.0,Parque O'Higgins,Santiago
+103,UF,3990,2,2,53.0,Franklin - Biobío,Santiago
+104,UF,1178,1,1,20.0,Parque O'Higgins,Santiago
+105,$,78000000,2,2,58.0,Parque Los Reyes,Santiago
+106,UF,2800,1,1,51.0,Centro Histórico De Santiago,Santiago
+107,UF,2350,1,1,38.0,Barrio Diez De Julio,Santiago
+108,UF,3100,1,1,31.0,Santa Isabel,Santiago
+109,UF,1850,1,1,33.0,Centro Histórico De Santiago,Santiago
+110,UF,2950,3,2,75.0,Centro Histórico De Santiago,Santiago
+111,$,125000000,4,2,89.0,Barrio Brasil,Santiago
+112,UF,2640,2,2,45.0,Bulnes,Santiago
+113,UF,1850,1,1,30.0,Santa Isabel,Santiago
+114,UF,3950,2,2,61.0,Bogotá - Sierra Bella,Santiago
+115,UF,1790,1,1,37.0,Ejército - Toesca,Santiago
+116,UF,2900,2,1,48.0,Santa Isabel,Santiago
+117,$,122000000,3,2,87.0,Centro Histórico De Santiago,Santiago
+118,UF,2980,2,2,61.0,Centro Histórico De Santiago,Santiago
+119,UF,3600,3,2,64.0,Santa Isabel,Santiago
+120,UF,2150,1,1,33.0,Bogotá - Sierra Bella,Santiago
+121,UF,2950,1,1,38.0,Barrio Lastarria,Santiago
+122,UF,2810,2,2,48.0,Santia... | UF | 2.810 | 2 dormitorios | 2 baños | 48 m² útiles | Bulnes,Santiago
+123,UF,15188,6,7,354.0,Barrio Lastarria,Santiago
+124,UF,1950,1,1,31.0,Santa Isabel,Santiago
+125,UF,1700,1,1,37.0,San Diego,Santiago
+126,UF,3400,3,2,74.0,Santa Isabel,Santiago
+127,UF,2500,3,2,60.0,Barrio Brasil,Santiago
+128,UF,1850,1,1,30.0,Barrio República,Santiago
+129,UF,2210,2,2,51.0,Barrio Diez De Julio,Santiago
+130,UF,3790,3,2,65.0,Santa Isabel,Santiago
+131,UF,3825,3,2,75.0,Santa Isabel,Santiago
+132,$,107000000,2,2,44.0,Santa Isabel,Santiago
+133,$,110000000,3,2,56.0,Centro Histórico De Santiago,Santiago
+134,UF,1390,1,1,29.0,San Diego,Santiago
+135,UF,2690,2,2,64.0,Bulnes,Santiago
+136,UF,4200,3,2,64.0,Santa Isabel,Santiago
+137,UF,2650,2,2,55.0,Centro Histórico De Santiago,Santiago
+138,UF,1450,1,1,25.0,Bulnes,Santiago
+139,UF,1980,2,1,42.0,Parque O'Higgins,Santiago
+140,UF,1800,1,1,40.0,Barrio Diez De Julio,Santiago
+141,UF,2750,2,1,43.0,Santa Isabel,Santiago
+142,UF,2500,2,2,50.0,Santa Isabel,Santiago
+143,UF,2589,1,1,52.0,Centro Histórico De Santiago,Santiago
+144,UF,1904,2,1,39.0,Parque O'Higgins,Santiago
+145,UF,4050,3,2,80.0,Ejército - Toesca,Santiago
+146,UF,1786,1,1,31.0,San Diego,Santiago
+147,UF,16100,4,3,243.0,Barrio Lastarria,Santiago
+148,UF,1800,1,1,38.0,Bulnes,Santiago
+149,UF,1800,1,1,40.0,Barrio Diez De Julio,Santiago
+150,$,105000000,2,2,55.0,Santa Isabel,Santiago
+151,$,65000000,3,1,50.0,Parque Los Reyes,Santiago
+152,UF,1500,1,1,20.0,San Diego,Santiago
+153,UF,2056,1,1,26.0,Centro Histórico De Santiago,Santiago
+154,UF,1650,1,1,30.0,Barrio Diez De Julio,Santiago
+155,UF,4200,2,2,57.0,Barrio Diez De Julio,Santiago
+156,UF,1600,1,1,28.0,Bulnes,Santiago
+157,UF,3200,2,2,68.0,Barrio Diez De Julio,Santiago
+158,$,62000000,1,1,35.0,Centro Histórico De Santiago,Santiago
+159,$,120000000,2,2,57.0,Santa Isabel,Santiago
+160,$,100000000,3,2,60.0,Barrio Yungay,Santiago
+161,UF,4000,5,2,120.0,Centro Histórico De Santiago,Santiago
+162,UF,3300,2,2,50.0,Barrio República,Santiago
+163,UF,850,2,2,60.0,Bogotá - Sierra Bella,Santiago
+164,UF,2606,2,1,50.0,Barrio San Borja,Santiago
+165,UF,3300,2,2,60.0,Santa Isabel,Santiago
+166,UF,3050,2,2,59.0,Centro Histórico De Santiago,Santiago
+167,UF,3100,2,2,55.0,Centro Histórico De Santiago,Santiago
+168,UF,3476,2,2,58.0,Barrio Yungay,Santiago
+169,UF,2500,1,1,35.0,Bulnes,Santiago
+170,UF,2000,1,1,28.0,Barrio Diez De Julio,Santiago
+171,UF,2800,2,1,70.0,Santa Isabel,Santiago
+172,UF,2675,1,1,34.0,Parque Almagro,Santiago
+173,UF,3250,2,2,60.0,Centro Histórico De Santiago,Santiago
+174,UF,5990,4,2,124.0,Centro Histórico De Santiago,Santiago
+175,UF,1999,1,1,44.0,Santa Isabel,Santiago
+176,UF,2752,1,1,38.0,Santa Isabel,Santiago
+177,UF,3000,2,2,53.0,Dieciocho,Santiago
+178,UF,3150,2,2,58.0,Parque Los Reyes,Santiago
+179,UF,1950,2,1,40.0,Parque O'Higgins,Santiago
+180,UF,3000,2,2,41.0,Barrio Brasil,Santiago
+181,UF,2441,1,1,36.0,Bogotá - Sierra Bella,Santiago
+182,UF,1950,1,1,38.0,Parque Almagro,Santiago
+183,UF,2050,1,1,43.0,Centro Histórico De Santiago,Santiago
+184,UF,1730,1,1,30.0,Santa Isabel,Santiago
+185,$,65000000,1,1,30.0,Barrio Diez De Julio,Santiago
+186,UF,1350,1,1,24.0,Barrio Brasil,Santiago
+187,UF,2500,2,1,60.0,Santa Isabel,Santiago
+188,UF,3600,2,2,56.0,Santa Isabel,Santiago
+189,UF,2385,2,2,49.0,Parque Almagro,Santiago
+190,UF,1350,2,1,38.0,Parque O'Higgins,Santiago
+191,UF,1380,1,1,25.0,Centro Histórico De Santiago,Santiago
+192,UF,2403,1,1,32.0,Santa Isabel,Santiago
+193,UF,4500,2,2,75.0,Barrio Lastarria,Santiago
+194,UF,2050,1,1,30.0,Bulnes,Santiago
+195,$,155000000,3,2,70.0,Santa Isabel,Santiago
+196,UF,4400,2,2,56.0,Ejército - Toesca,Santiago
+197,$,85000000,2,1,60.0,Barrio Brasil,Santiago
+198,UF,1850,1,1,32.0,Barrio Yungay,Santiago
+199,$,65000000,1,1,60.0,Barrio Yungay,Santiago
+200,UF,2100,2,2,52.0,Centro Histórico De Santiago,Santiago
+201,UF,2350,1,1,42.0,Centro Histórico De Santiago,Santiago
+202,UF,1250,1,1,32.0,San Diego,Santiago
+203,UF,2790,2,2,55.0,Parque O'Higgins,Santiago
+204,UF,2370,2,2,54.0,Santa Isabel,Santiago
+205,UF,3952,3,2,100.0,Centro Histórico De Santiago,Santiago
+206,UF,3500,3,2,76.0,Santa Isabel,Santiago
+207,UF,3987,3,2,78.0,Barrio Yungay,Santiago
+208,UF,2318,2,2,49.0,Barrio Yungay,Santiago
+209,$,76000000,1,1,31.0,Santa Isabel,Santiago
+210,UF,2350,3,2,49.0,Bulnes,Santiago
+211,UF,3400,2,2,46.0,Parque Los Reyes,Santiago
+212,UF,2200,1,1,34.0,Parque O'Higgins,Santiago
+213,UF,2710,2,1,60.0,Meiggs,Santiago
+214,UF,3200,3,2,69.0,Meiggs,Santiago
+215,UF,2990,1,1,28.0,Ejército - Toesca,Santiago
+216,UF,3870,2,1,37.0,Ejército - Toesca,Santiago
+217,UF,1950,1,1,32.0,Bulnes,Santiago
+218,UF,3125,2,2,46.0,Parque Los Reyes,Santiago
+219,UF,1580,1,1,29.0,Bulnes,Santiago
+220,UF,2202,1,1,19.0,Ejército - Toesca,Santiago
+221,$,90000000,2,1,46.0,San Diego,Santiago
+222,UF,2900,2,2,48.0,Santa Isabel,Santiago
+223,UF,2150,2,1,43.0,Barrio Brasil,Santiago
+224,UF,1800,1,1,27.0,Centro Histórico De Santiago,Santiago
+225,UF,1800,1,1,28.0,Centro Histórico De Santiago,Santiago
+226,UF,1800,1,1,28.0,Centro Histórico De Santiago,Santiago
+227,UF,2700,1,1,35.0,Barrio República,Santiago
+228,UF,1970,1,1,34.0,Santa Isabel,Santiago
+229,UF,1845,1,1,34.0,Santa Isabel,Santiago
+230,UF,2390,2,1,41.0,Barrio República,Santiago
+231,$,77000000,2,1,40.0,Bulnes,Santiago
+232,UF,2450,2,1,52.0,Santa Isabel,Santiago
+233,UF,1600,1,1,31.0,Santa Isabel,Santiago
+234,UF,1900,2,1,44.0,Centro Histórico De Santiago,Santiago
+235,UF,3500,2,2,58.0,Bulnes,Santiago
+236,UF,1500,1,1,27.0,Bulnes,Santiago
+237,UF,1470,1,1,30.0,Parque O'Higgins,Santiago
+238,UF,1500,1,1,22.0,Parque Almagro,Santiago
+239,UF,1750,1,1,28.0,Parque O'Higgins,Santiago
+240,UF,3800,2,2,59.0,Santa Isabel,Santiago
+241,UF,1750,1,1,28.0,Parque O'Higgins,Santiago
+242,UF,1650,1,1,32.0,Bulnes,Santiago
+243,UF,3100,1,1,40.0,Parque O'Higgins,Santiago
+244,UF,3350,3,2,70.0,Parque Almagro,Santiago
+245,$,82500000,1,1,40.0,Ejército - Toesca,Santiago
+246,UF,3345,3,2,70.0,Parque Almagro,Santiago
+247,UF,1600,1,1,30.0,Ejército - Toesca,Santiago
+248,UF,3100,3,2,55.0,Centro Histórico De Santiago,Santiago
+249,UF,3777,4,2,109.0,Barrio San Borja,Santiago
+250,UF,1500,1,1,26.0,Centro Histórico De Santiago,Santiago
+251,UF,2490,1,1,38.0,Centro Histórico De Santiago,Santiago
+252,UF,2090,1,1,38.0,Santa Isabel,Santiago
+253,UF,1660,1,1,26.0,Centro Histórico De Santiago,Santiago
+254,UF,17000,7,4,255.0,Barrio Lastarria,Santiago
+255,UF,1532,1,1,32.0,Centro Histórico De Santiago,Santiago
+256,UF,2560,2,2,51.0,Departamento en venta | Departamento Estilo Mariposa / Estación Metro Toesca | Por Engel & Völkers Ñuñoa | UF | 2.560 | 2 dormitorios | 2 baños | 51 m² útiles | Parque Almagro,Santiago
+257,UF,4000,2,2,50.0,Estación De Metro Santa Lucía. | Por Engel & Völkers Ñuñoa | UF | 4.000 | 2 dormitorios | 2 baños | 50 m² útiles | Barrio San Borja,Santiago
+258,UF,2185,1,1,33.0,Centro Histórico De Santiago,Santiago
+259,UF,1800,1,1,30.0,Parque Almagro,Santiago
+260,UF,2500,2,2,54.0,Santa Isabel,Santiago
+261,UF,2150,3,2,66.0,Parque Los Reyes,Santiago
+262,UF,1663,2,2,42.0,Parque Almagro,Santiago
+263,UF,2200,2,2,48.0,Parque Almagro,Santiago
+264,UF,2620,2,1,41.0,Barrio Lastarria,Santiago
+265,UF,1918,2,2,42.0,Barrio Yungay,Santiago
+266,UF,4400,2,2,57.0,Barrio República,Santiago
+267,UF,2890,2,1,38.0,Parque Almagro,Santiago
+268,UF,3300,2,2,58.0,Parque Almagro,Santiago
+269,UF,1714,1,1,30.0,Bulnes,Santiago
+270,$,120000000,3,2,120.0,Centro Histórico De Santiago,Santiago
+271,UF,1760,1,1,36.0,Ejército - Toesca,Santiago
+272,UF,3100,2,2,55.0,Santa Isabel,Santiago
+273,UF,2800,3,2,61.0,Santa Isabel,Santiago
+274,UF,2650,1,1,33.0,San Diego,Santiago
+275,UF,5000,2,2,86.0,Barrio Lastarria,Santiago
+276,UF,1690,1,1,26.0,Barrio Yungay,Santiago
+277,UF,1500,1,1,30.0,Barrio Diez De Julio,Santiago
+278,UF,3500,2,2,49.0,Centro Histórico De Santiago,Santiago
+279,UF,2000,2,1,37.0,Bogotá - Sierra Bella,Santiago
+280,UF,2500,2,1,45.0,Departamento en venta | Venta Departamento Excelente Ubicación | Por Property Partners | UF | 2.500 | 2 dormitorios | 1 baño | 45 m² útiles | Santiago,Santa Isabel
+281,UF,1320,1,1,30.0,Santiag... | Por Property Partners | UF | 1.320 | 1 dormitorio | 1 baño | 30 m² útiles | Santiago,Centro Histórico De Santiago
+282,UF,2731,4,1,70.0,Departamento en venta | Departamento Vista Al Cerro Santa Lucía | Por Property Partners | UF | 2.731 | 4 dormitorios | 1 baño | 70 m² útiles | Santiago,Barrio San Borja
+283,UF,3700,2,2,58.0,Centro Histórico De Santiago,Santiago
+284,UF,4100,1,1,65.0,Centro Histórico De Santiago,Santiago
+285,UF,3900,1,2,40.0,Centro Histórico De Santiago,Santiago
+286,UF,3550,3,2,68.0,Ejército - Toesca,Santiago
+287,UF,4900,3,2,100.0,Bulnes,Santiago
+288,UF,4100,2,2,55.0,Parque Almagro,Santiago
+289,UF,2550,2,2,50.0,Barrio Brasil,Santiago
+290,UF,2750,1,1,33.0,San Diego,Santiago
+291,UF,2750,1,1,33.0,San Diego,Santiago
+292,UF,2750,1,1,33.0,Santa Isabel,Santiago
+293,UF,3000,1,1,33.0,Santa Isabel,Santiago
+294,UF,1990,1,1,35.0,Santa Isabel,Santiago
+295,UF,3300,3,2,64.0,Parque O'Higgins,Santiago
+296,UF,3000,2,2,54.0,Parque O'Higgins,Santiago
+297,UF,2300,2,2,55.0,Parque Almagro,Santiago
+298,UF,2630,2,2,50.0,Parque Los Reyes,Santiago
+299,UF,2600,3,2,83.0,Centro Histórico De Santiago,Santiago
+300,UF,2200,2,2,52.0,Barrio Brasil,Santiago
+301,UF,3150,2,2,60.0,Centro Histórico De Santiago,Santiago
+302,UF,17000,2,3,132.0,Barrio República,Santiago
+303,UF,2620,2,1,42.0,Bulnes,Santiago
+304,UF,1850,1,1,33.0,Parque Almagro,Santiago
+305,UF,3214,3,2,60.0,Santa Isabel,Santiago
+306,UF,2390,2,1,46.0,Centro Histórico De Santiago,Santiago
+307,UF,1950,1,1,34.0,Barrio República,Santiago
+308,UF,2190,2,1,43.0,Parque Almagro,Santiago
+309,UF,2390,2,2,45.0,Parque Almagro,Santiago
+310,UF,1586,2,1,36.0,Parque O'Higgins,Santiago
+311,UF,2440,2,2,61.0,San Diego,Santiago
+312,UF,3200,2,2,62.0,Santa Isabel,Santiago
+313,UF,1742,1,1,34.0,San Diego,Santiago
+314,UF,1800,1,1,31.0,Santa Isabel,Santiago
+315,UF,1870,1,1,21.0,Parque O'Higgins,Santiago
+316,UF,4300,1,1,60.0,Ejército - Toesca,Santiago
+317,UF,4000,3,2,82.0,Santa Isabel,Santiago
+318,UF,2000,3,1,50.0,Parque Los Reyes,Santiago
+319,UF,6650,3,3,107.0,Centro Histórico De Santiago,Santiago
+320,UF,1500,1,1,30.0,Santa Isabel,Santiago
+321,UF,3266,2,2,65.0,Santa Isabel,Santiago
+322,UF,2190,1,1,30.0,Bulnes,Santiago
+323,UF,2500,2,1,44.0,Centro Histórico De Santiago,Santiago
+324,UF,3910,4,2,89.0,Barrio República,Santiago
+325,UF,3715,4,2,86.0,Franklin - Biobío,Santiago
+326,UF,3000,2,2,58.0,Santa Isabel,Santiago
+327,UF,2390,2,1,50.0,Santa Isabel,Santiago
+328,UF,1900,1,1,30.0,Santa Isabel,Santiago
+329,UF,2750,2,2,46.0,Santa Isabel,Santiago
+330,UF,1520,1,1,29.0,Centro Histórico De Santiago,Santiago
+331,UF,1410,1,1,26.0,Parque O'Higgins,Santiago
+332,UF,2592,2,2,57.0,Franklin - Biobío,Santiago
+333,UF,3931,3,2,89.0,Franklin - Biobío,Santiago
+334,UF,5500,4,2,143.0,Centro Histórico De Santiago,Santiago
+335,UF,2400,2,1,46.0,Parque O'Higgins,Santiago
+336,UF,4000,2,2,2.0,Barrio Diez De Julio,Santiago
+337,UF,3200,2,2,42.0,Parque O'Higgins,Santiago
+338,UF,4290,2,2,45.0,Santa Isabel,Santiago
+339,UF,2820,1,1,34.0,Parque O'Higgins,Santiago
+340,UF,1790,1,1,20.0,Parque O'Higgins,Santiago
+341,UF,2500,2,1,45.0,Parque O'Higgins,Santiago
+342,UF,3000,3,2,60.0,Barrio Yungay,Santiago
+343,UF,1690,1,1,33.0,San Diego,Santiago
+344,UF,1950,1,1,21.0,Barrio Yungay,Santiago
+345,UF,1725,2,2,43.0,Franklin - Biobío,Santiago
+346,UF,2950,3,2,71.0,Centro Histórico De Santiago,Santiago
+347,UF,1649,2,1,33.0,Franklin - Biobío,Santiago
+348,UF,1899,1,1,34.0,Centro Histórico De Santiago,Santiago
+349,$,120000000,3,1,48.0,Parque Los Reyes,Santiago
+350,UF,1700,3,1,51.0,Centro Histórico De Santiago,Santiago
+351,UF,3000,2,2,57.0,Santa Isabel,Santiago
+352,UF,2600,2,2,45.0,Barrio República,Santiago
+353,UF,2782,1,1,31.0,Bogotá - Sierra Bella,Santiago
+354,UF,2792,1,1,31.0,Bogotá - Sierra Bella,Santiago
+355,$,79800000,1,1,32.0,Santa Isabel,Santiago
+356,UF,3055,1,1,32.0,Bogotá - Sierra Bella,Santiago
+357,UF,4423,2,2,50.0,Bogotá - Sierra Bella,Santiago
+358,UF,4156,2,2,50.0,Bogotá - Sierra Bella,Santiago
+359,UF,2961,1,1,32.0,Bogotá - Sierra Bella,Santiago
+360,UF,2600,2,2,45.0,Ejército - Toesca,Santiago
+361,UF,1990,2,2,45.0,Franklin - Biobío,Santiago
+362,UF,1800,1,1,32.0,Bulnes,Santiago
+363,UF,3050,2,2,58.0,Santa Isabel,Santiago
+364,UF,5090,2,2,54.0,Ejército - Toesca,Santiago
+365,UF,1755,1,1,31.0,Franklin - Biobío,Santiago
+366,UF,3950,2,2,61.0,Bogotá - Sierra Bella,Santiago
+367,UF,2126,1,1,28.0,Franklin - Biobío,Santiago
+368,UF,3100,2,2,47.0,Parque O'Higgins,Santiago
+369,UF,2640,1,1,33.0,Parque O'Higgins,Santiago
+370,UF,2750,2,1,44.0,Parque O'Higgins,Santiago
+371,UF,2390,2,1,53.0,Parque Almagro,Santiago
+372,UF,2402,2,2,45.0,Franklin - Biobío,Santiago
+373,UF,3849,2,1,49.0,Santa Isabel,Santiago
+374,UF,2000,1,1,29.0,Bogotá - Sierra Bella,Santiago
+375,UF,3180,1,1,36.0,Ejército - Toesca,Santiago
+376,UF,2500,1,1,25.0,Ejército - Toesca,Santiago
+377,UF,4599,5,3,150.0,Bulnes,Santiago
+378,UF,2099,2,2,45.0,Santa Isabel,Santiago
+379,UF,3190,2,2,58.0,Santa Isabel,Santiago
+380,UF,1790,1,1,31.0,Centro Histórico De Santiago,Santiago
+381,UF,2290,2,1,44.0,Bulnes,Santiago
+382,UF,1700,1,1,31.0,Centro Histórico De Santiago,Santiago
+383,UF,3400,2,2,47.0,Santa Isabel,Santiago
+384,UF,2665,1,1,29.0,Santa Isabel,Santiago
+385,UF,2106,1,1,30.0,Santa Isabel,Santiago
+386,UF,2650,2,2,56.0,Centro Histórico De Santiago,Santiago
+387,UF,2800,2,2,45.0,Santa Isabel,Santiago
+388,UF,3500,2,2,50.0,San Diego,Santiago
+389,UF,2960,1,1,29.0,Bogotá - Sierra Bella,Santiago
+390,UF,1990,1,1,35.0,Parque Los Reyes,Santiago
+391,UF,1490,1,1,35.0,Centro Histórico De Santiago,Santiago
+392,UF,2100,2,2,46.0,Parque Los Reyes,Santiago
+393,UF,3450,3,2,60.0,Santa Isabel,Santiago
+394,UF,3623,2,1,47.0,Bogotá - Sierra Bella,Santiago
+395,UF,3953,3,2,89.0,Franklin - Biobío,Santiago
+396,UF,2290,1,1,40.0,Centro Histórico De Santiago,Santiago
+397,UF,3090,2,2,50.0,Barrio Diez De Julio,Santiago
+398,UF,1950,1,1,29.0,Santa Isabel,Santiago
+399,UF,2290,1,1,40.0,Centro Histórico De Santiago,Santiago
+400,UF,4930,3,2,72.0,Bulnes,Santiago
+401,UF,1420,1,1,27.0,Parque Almagro,Santiago
+402,UF,3100,2,1,50.0,Centro Histórico De Santiago,Santiago
+403,UF,1891,1,1,21.0,Centro Histórico De Santiago,Santiago
+404,UF,2150,1,1,32.0,San Diego,Santiago
+405,UF,3000,2,2,60.0,Barrio Diez De Julio,Santiago
+406,UF,1755,1,1,30.0,Bogotá - Sierra Bella,Santiago
+407,UF,2090,1,1,43.0,Centro Histórico De Santiago,Santiago
+408,UF,4000,4,3,120.0,San Diego,Santiago
+409,UF,2402,1,1,45.0,Bogotá - Sierra Bella,Santiago
+410,UF,2980,2,1,48.0,Bogotá - Sierra Bella,Santiago
+411,UF,7500,4,3,157.0,Barrio Lastarria,Santiago
+412,UF,2594,1,1,36.0,Parque Los Reyes,Santiago
+413,UF,2413,2,2,41.0,Parque Almagro,Santiago
+414,UF,2600,2,2,44.0,Bulnes,Santiago
+415,UF,2918,2,1,44.0,Parque Los Reyes,Santiago
+416,UF,2594,1,1,35.0,Parque Los Reyes,Santiago
+417,$,67900000,1,1,29.0,Parque Almagro,Santiago
+418,UF,1800,1,1,30.0,Bogotá - Sierra Bella,Santiago
+419,UF,3545,2,2,45.0,Parque Los Reyes,Santiago
+420,UF,3536,2,2,58.0,Parque Los Reyes,Santiago
+421,UF,3956,2,2,58.0,Parque Los Reyes,Santiago
+422,UF,2200,1,1,42.0,Barrio Lastarria,Santiago
+423,$,71000000,1,1,28.0,Santa Isabel,Santiago
+424,UF,2370,2,2,50.0,Bulnes,Santiago
+425,$,149300000,3,1,65.0,Santa Isabel,Santiago
+426,UF,3051,3,2,57.0,Santa Isabel,Santiago
+427,UF,2865,3,2,63.0,Barrio Yungay,Santiago
+428,UF,1520,1,1,25.0,Barrio Brasil,Santiago
+429,UF,1750,1,1,32.0,Bulnes,Santiago
+430,UF,1100,1,1,20.0,Centro Histórico De Santiago,Santiago
+431,UF,1400,1,1,31.0,Centro Histórico De Santiago,Santiago
+432,UF,2650,2,2,49.0,Ejército - Toesca,Santiago
+433,UF,2290,3,1,100.0,Barrio Yungay,Santiago
+434,UF,2300,2,1,47.0,Bulnes,Santiago
+435,UF,12000,4,4,180.0,Franklin - Biobío,Santiago
+436,UF,2250,2,2,55.0,Centro Histórico De Santiago,Santiago
+437,UF,2942,1,1,29.0,Centro Histórico De Santiago,Santiago
+438,UF,1880,1,1,29.0,Santa Isabel,Santiago
+439,UF,2200,1,1,28.0,Barrio Diez De Julio,Santiago
+440,UF,2400,2,1,45.0,Ejército - Toesca,Santiago
+441,UF,2100,1,1,28.0,Ejército - Toesca,Santiago
+442,UF,2800,2,1,48.0,Santa Isabel,Santiago
+443,UF,1780,1,1,33.0,Santa Isabel,Santiago
+444,$,58000000,1,1,35.0,Parque Almagro,Santiago
+445,UF,1800,1,1,35.0,Bogotá - Sierra Bella,Santiago
+446,UF,1940,1,1,26.0,Centro Histórico De Santiago,Santiago
+447,UF,2000,1,1,30.0,Departamento en venta | Se Vende Depto.  Amoblado 1 Dormitorio San Pablo/ Av. Brasil | UF | 2.000 | 1 dormitorio | 1 baño | 30 m² útiles | Santiago,Barrio Brasil
+448,$,60000000,1,1,38.0,Santa Isabel,Santiago
+449,UF,1700,1,1,33.0,Bulnes,Santiago
+450,UF,1490,1,1,29.0,Parque O'Higgins,Santiago
+451,UF,3250,2,2,54.0,Ejército - Toesca,Santiago
+452,UF,1500,1,1,31.0,Santa Isabel,Santiago
+453,UF,2100,1,1,32.0,Santa Isabel,Santiago
+454,UF,6500,2,2,120.0,Centro Histórico De Santiago,Santiago
+455,UF,5022,3,2,109.0,Centro Histórico De Santiago,Santiago
+456,UF,7200,4,2,166.0,Barrio Lastarria,Santiago
+457,UF,4200,2,2,90.0,Centro Histórico De Santiago,Santiago
+458,UF,1450,1,1,28.0,Departamento en venta | Depto Inversión 1d Y 1b En Calle Raulí/ Cercano A Portugal | Por Engel & Völkers Ñuñoa | UF | 1.450 | 1 dormitorio | 1 baño | 28 m² útiles | Santa Isabel,Santiago
+459,UF,8150,3,2,122.0,Centro Histórico De Santiago,Santiago
+460,UF,3090,2,2,47.0,Santa Isabel,Santiago
+461,UF,1500,1,1,31.0,Santa Isabel,Santiago
+462,UF,1600,1,1,28.0,Bulnes,Santiago
+463,UF,1800,1,1,29.0,Centro Histórico De Santiago,Santiago
+464,UF,2100,1,1,30.0,Santa Isabel,Santiago
+465,UF,2900,1,1,46.0,Departamento en venta | Departamento Con Vista Al Cerro Santa Lucía/ Lastarria | Por Engel & Völkers Ñuñoa | UF | 2.900 | 1 dormitorio | 1 baño | 46 m² útiles | Barrio Lastarria,Santiago
+466,UF,3000,2,2,45.0,Santa Isabel,Santiago
+467,UF,15600,2,1,651.0,Dieciocho,Santiago
+468,UF,2750,1,1,33.0,Departamento en venta | Remodelado/ideal Inversionista | Por Engel & Völkers Ñuñoa | UF | 2.750 | 1 dormitorio | 1 baño | 33 m² útiles | Centro Histórico De Santiago,Santiago
+469,UF,4326,3,2,71.0,Santa Isabel,Santiago
+470,UF,2200,1,1,38.0,Centro Histórico De Santiago,Santiago
+471,$,110000000,2,2,65.0,Centro Histórico De Santiago,Santiago
+472,UF,1506,1,1,21.0,Parque O'Higgins,Santiago
+473,UF,1750,1,1,40.0,Centro Histórico De Santiago,Santiago
+474,$,73000000,1,1,34.0,Centro Histórico De Santiago,Santiago
+475,UF,2229,1,1,40.0,Bogotá - Sierra Bella,Santiago
+476,UF,2090,2,1,42.0,Barrio Diez De Julio,Santiago
+477,UF,1900,2,1,60.0,Parque O'Higgins,Santiago
+478,UF,3800,2,2,60.0,Bogotá - Sierra Bella,Santiago
+479,UF,2750,3,2,49.0,Barrio Diez De Julio,Santiago
+480,UF,2890,2,1,36.0,Bulnes,Santiago
+481,UF,3490,3,2,75.0,Parque O'Higgins,Santiago
+482,UF,1900,1,1,31.0,Santa Isabel,Santiago
+483,UF,2850,3,2,61.0,Santa Isabel,Santiago
+484,UF,3610,3,2,65.0,Centro Histórico De Santiago,Santiago
+485,UF,2950,2,1,44.0,Santa Isabel,Santiago
+486,UF,2190,1,1,33.0,Barrio Yungay,Santiago
+487,UF,1650,1,1,35.0,Centro Histórico De Santiago,Santiago
+488,UF,2200,1,1,36.0,Parque Los Reyes,Santiago
+489,UF,2800,2,2,59.0,Santa Isabel,Santiago
+490,UF,1325,1,1,28.0,Centro Histórico De Santiago,Santiago
+491,UF,2084,1,1,17.0,Parque Almagro,Santiago
+492,UF,2862,2,2,47.0,San Diego,Santiago
+493,UF,2350,2,1,39.0,Barrio Brasil,Santiago
+494,UF,2280,1,1,37.0,Parque O'Higgins,Santiago
+495,UF,2100,1,1,34.0,Bogotá - Sierra Bella,Santiago
+496,UF,1800,1,1,25.0,Barrio Brasil,Santiago
+497,UF,1980,1,1,28.0,Barrio Brasil,Santiago
+498,UF,2700,1,1,38.0,Santa Isabel,Santiago
+499,UF,3250,2,2,50.0,Departamento en venta | Departamento En Santiago / Lira | UF | 3.250 | Publicado esta semana | 2 dormitorios | 2 baños | 50 m² útiles | Santiago,Santa Isabel
+500,UF,2850,2,2,48.0,San Diego,Santiago
+501,UF,3500,3,2,69.0,Centro Histórico De Santiago,Santiago
+502,UF,2390,2,1,46.0,Barrio Diez De Julio,Santiago
+503,UF,2290,2,1,46.0,Barrio Diez De Julio,Santiago
+504,$,140000000,2,2,53.0,Parque Almagro,Santiago
+505,UF,3250,3,2,63.0,Santa Isabel,Santiago
+506,UF,2390,2,1,39.0,Bulnes,Santiago
+507,UF,2090,1,1,30.0,Santa Isabel,Santiago
+508,UF,2090,2,1,38.0,Bogotá - Sierra Bella,Santiago
+509,UF,2390,2,1,35.0,Barrio Diez De Julio,Santiago
+510,$,65000000,2,1,47.0,Parque Los Reyes,Santiago
+511,UF,4990,2,2,66.0,San Diego,Santiago
+512,$,130000000,2,1,45.0,Bulnes,Santiago
+513,UF,2270,2,1,43.0,Centro Histórico De Santiago,Santiago
+514,UF,1550,1,1,31.0,Parque Almagro,Santiago
+515,$,125000000,3,2,80.0,Parque Almagro,Santiago
+516,UF,2700,2,2,47.0,Barrio República,Santiago
+517,UF,2000,1,1,47.0,Santa Isabel,Santiago
+518,UF,1990,1,1,25.0,Barrio Yungay,Santiago
+519,UF,2600,2,1,44.0,Barrio Lastarria,Santiago
+520,UF,6700,4,3,166.0,Barrio Lastarria,Santiago
+521,UF,3400,1,1,65.0,Barrio Lastarria,Santiago
+522,UF,5100,2,2,67.0,Centro Histórico De Santiago,Santiago
+523,UF,3140,3,2,64.0,Santa Isabel,Santiago
+524,UF,3100,1,1,47.0,Centro Histórico De Santiago,Santiago
+525,UF,1900,1,1,36.0,Santa Isabel,Santiago
+526,UF,4100,2,2,117.0,Centro Histórico De Santiago,Santiago
+527,UF,1780,2,2,44.0,Bogotá - Sierra Bella,Santiago
+528,UF,1800,1,1,33.0,Ejército - Toesca,Santiago
+529,UF,1675,2,1,39.0,Franklin - Biobío,Santiago
+530,$,125000000,2,2,55.0,Centro Histórico De Santiago,Santiago
+531,UF,2800,1,1,36.0,Barrio Diez De Julio,Santiago
+532,UF,1640,1,1,28.0,Bulnes,Santiago
+533,UF,19500,4,4,370.0,Centro Histórico De Santiago,Santiago
+534,UF,2090,1,1,30.0,Santa Isabel,Santiago
+535,$,70000000,2,1,38.0,Parque O'Higgins,Santiago
+536,UF,1187,1,1,29.0,Oportunidad Inversió... | Por Property Partners | UF | 1.187 | 1 dormitorio | 1 baño | 29 m² útiles | Santiago,Centro Histórico De Santiago
+537,UF,2100,2,1,52.0,Bogotá - Sierra Bella,Santiago
+538,UF,4150,2,2,66.0,Santa Isabel,Santiago
+539,UF,3150,2,1,45.0,San Diego,Santiago
+540,UF,3150,2,1,45.0,San Diego,Santiago
+541,UF,1814,1,1,28.0,Santa Isabel,Santiago
+542,UF,1850,1,1,35.0,Parque Almagro,Santiago
+543,UF,4500,4,2,100.0,Barrio Brasil,Santiago
+544,UF,3300,2,2,56.0,Centro Histórico De Santiago,Santiago
+545,UF,2990,2,1,52.0,Bulnes,Santiago
+546,UF,2100,1,1,33.0,Centro Histórico De Santiago,Santiago
+547,UF,4000,3,2,100.0,Barrio Brasil,Santiago
+548,UF,1955,1,1,30.0,Franklin - Biobío,Santiago
+549,UF,1955,1,1,30.0,Franklin - Biobío,Santiago
+550,UF,2690,2,1,49.0,Bulnes,Santiago
+551,UF,1490,1,1,27.0,Centro Histórico De Santiago,Santiago
+552,UF,2222,2,1,46.0,Centro Histórico De Santiago,Santiago
+553,UF,1900,2,1,41.0,Centro Histórico De Santiago,Santiago
+554,UF,5480,2,2,65.0,Barrio Lastarria,Santiago
+555,UF,6500,3,2,135.0,Centro Histórico De Santiago,Santiago
+556,UF,3400,3,2,85.0,Barrio República,Santiago
+557,UF,9000,3,2,208.0,Centro Histórico De Santiago,Santiago
+558,UF,16100,4,3,243.0,Departamento en venta | Grandioso Departamento Frente A Parque Forestal | Por Engel & Völkers Ñuñoa | UF | 16.100 | 4 dormitorios | 3 baños | 243 m² útiles | Barrio Lastarria,Santiago
+559,UF,6500,3,2,106.0,Centro Histórico De Santiago,Santiago
+560,UF,1750,1,1,30.0,Santa Isabel,Santiago
+561,UF,2950,1,1,37.0,Ejército - Toesca,Santiago
+562,UF,2600,2,2,58.0,Barrio Diez De Julio,Santiago
+563,UF,1590,1,1,29.0,Centro Histórico De Santiago,Santiago
+564,UF,4600,3,2,63.0,Barrio Lastarria,Santiago
+565,UF,8870,2,2,163.0,Centro Histórico De Santiago,Santiago
+566,UF,1787,1,1,39.0,Centro Histórico De Santiago,Santiago
+567,UF,3590,3,2,73.0,San Diego,Santiago
+568,UF,3000,2,2,53.0,Santa Isabel,Santiago
+569,UF,2349,2,2,47.0,Barrio Yungay,Santiago
+570,UF,1790,1,1,28.0,Bulnes,Santiago
+571,UF,3050,3,2,54.0,Bogotá - Sierra Bella,Santiago
+572,UF,3254,2,2,59.0,San Diego,Santiago
+573,UF,2700,2,1,45.0,Santa Isabel,Santiago
+574,UF,4000,2,2,59.0,,
+575,,,,,,Bulnes,Santiago
+576,UF,1531,1,1,29.0,Franklin - Biobío,Santiago
+577,UF,3190,2,2,50.0,Centro Histórico De Santiago,Santiago
+578,UF,1850,1,1,23.0,Parque O'Higgins,Santiago
+579,UF,2300,2,1,50.0,Centro Histórico De Santiago,Santiago
+580,UF,1490,1,1,35.0,Parque Los Reyes,Santiago
+581,UF,2048,,1,25.0,Centro Histórico De Santiago,Santiago
+582,UF,1500,1,1,24.0,Barrio Diez De Julio,Santiago
+583,UF,1800,1,1,32.0,Bulnes,Santiago
+584,UF,1550,1,1,27.0,Departamento en venta | 1 Dormitorio / Vista Despejada / Metro U. De Chile | Por Engel & Völkers Ñuñoa | UF | 1.550 | 1 dormitorio | 1 baño | 27 m² útiles | Bulnes,Santiago
+585,UF,2800,2,2,57.0,Barrio Diez De Julio,Santiago
+586,UF,3420,2,2,58.0,Santa Isabel,Santiago
+587,UF,2364,1,1,28.0,Barrio República,Santiago
+588,UF,5350,3,2,132.0,Centro Histórico De Santiago,Santiago
+589,UF,3445,2,2,54.0,Centro Histórico De Santiago,Santiago
+590,UF,2100,1,1,35.0,Ejército - Toesca,Santiago
+591,UF,1750,1,1,27.0,Cercano Metro U. De Chile | Por Engel & Völkers Ñuñoa | UF | 1.750 | 1 dormitorio | 1 baño | 27 m² útiles | Bulnes,Santiago
+592,UF,3800,2,2,54.0,Santiago | Por Engel & Völkers Ñuñoa | UF | 3.800 | 2 dormitorios | 2 baños | 54 m² útiles | Bogotá - Sierra Bella,Santiago
+593,UF,3900,2,2,72.0,Santa Isabel,Santiago
+594,UF,2084,1,1,22.0,Centro Histórico De Santiago,Santiago
+595,UF,2500,1,1,37.0,San Diego,Santiago
+596,UF,2900,2,1,45.0,Barrio Diez De Julio,Santiago
+597,UF,1500,1,1,29.0,Santa Isabel,Santiago
+598,UF,2180,1,1,30.0,Barrio Diez De Julio,Santiago
+599,UF,3500,2,2,50.0,2d Y 2 B | Por Engel & Völkers Ñuñoa | UF | 3.500 | 2 dormitorios | 2 baños | 50 m² útiles | Santa Isabel,Santiago
+600,UF,1460,1,1,30.0,Cercano A Metro Toesca | Por Engel & Völkers Ñuñoa | UF | 1.460 | 1 dormitorio | 1 baño | 30 m² útiles | Parque Almagro,Santiago
+601,UF,2450,2,1,39.0,Santa Isabel,Santiago
+602,UF,2900,3,2,66.0,Franklin - Biobío,Santiago
+603,UF,4500,1,2,78.0,Parque Almagro,Santiago
+604,UF,1550,1,1,30.0,Parque Los Reyes,Santiago
+605,UF,3700,1,1,42.0,Barrio Lastarria,Santiago
+606,UF,2515,2,2,50.0,Barrio Yungay,Santiago
+607,UF,2200,1,1,30.0,Bulnes,Santiago
+608,UF,3252,3,2,65.0,Santa Isabel,Santiago
+609,UF,1990,1,1,41.0,Parque O'Higgins,Santiago
+610,UF,3300,2,2,51.0,Santa Isabel,Santiago
+611,UF,2750,1,1,31.0,Parque O'Higgins,Santiago
+612,UF,1600,1,1,27.0,Bulnes,Santiago
+613,UF,2300,2,1,50.0,Franklin - Biobío,Santiago
+614,UF,1990,1,1,41.0,Parque O'Higgins,Santiago
+615,UF,2150,1,1,31.0,Departamento en venta | Vende Departamento 1d/1b Muy Buena Ubicacion Stgo Centro | Por Engel & Völkers Ñuñoa | UF | 2.150 | 1 dormitorio | 1 baño | 31 m² útiles | Bulnes,Santiago
+616,UF,2200,2,2,46.0,San Diego,Santiago
+617,UF,3000,1,1,37.0,Centro Histórico De Santiago,Santiago
+618,UF,2500,2,1,48.0,Parque Almagro,Santiago
+619,UF,4625,3,2,105.0,Barrio República,Santiago
+620,UF,2700,2,1,73.0,Departamento en venta | Amplio Departamento Remodelado / Metro Santa Lucía | Por Engel & Völkers Ñuñoa | UF | 2.700 | 2 dormitorios | 1 baño | 73 m² útiles | Bulnes,Santiago
+621,UF,2100,2,1,42.0,San Diego,Santiago
+622,UF,3200,2,2,42.0,Santa Isabel,Santiago
+623,UF,1850,1,1,36.0,Parque Almagro,Santiago
+624,UF,1990,1,1,31.0,Bulnes,Santiago
+625,UF,2140,2,2,51.0,Centro Histórico De Santiago,Santiago
+626,UF,1890,1,1,35.0,Parque Almagro,Santiago
+627,UF,2700,1,1,38.0,Ejército - Toesca,Santiago
+628,UF,2100,2,1,42.0,San Diego,Santiago
+629,UF,2100,2,1,42.0,San Diego,Santiago
+630,UF,1989,1,1,32.0,Barrio República,Santiago
+631,UF,2100,2,1,42.0,San Diego,Santiago
+632,UF,2700,1,1,32.0,Parque Almagro,Santiago
+633,UF,2200,2,1,40.0,Parque O'Higgins,Santiago
+634,UF,3090,2,2,47.0,Barrio Diez De Julio,Santiago
+635,UF,2500,1,1,33.0,Parque Almagro,Santiago
+636,UF,3980,3,2,76.0,Departamento en venta | Excelente Departamento 3 Dormitorios | San Isidro | Por Engel & Völkers Ñuñoa | UF | 3.980 | Publicado esta semana | 3 dormitorios | 2 baños | 76 m² útiles | Santa Isabel,Santiago
+637,UF,2769,2,2,23.0,Barrio República,Santiago
+638,UF,2600,2,1,54.0,Departamento en venta | Depto Central 2d Y 1b / San Isidro | Por Engel & Völkers Ñuñoa | UF | 2.600 | Publicado esta semana | 2 dormitorios | 1 baño | 54 m² útiles | Santa Isabel,Santiago
+639,UF,3950,2,2,50.0,Barrio Diez De Julio,Santiago
+640,UF,2200,1,1,22.0,Bulnes,Santiago
+641,UF,3090,2,2,55.0,Santa Isabel,Santiago
+642,UF,1800,1,1,39.0,Parque Los Reyes,Santiago
+643,$,99500000,2,2,47.0,Parque Almagro,Santiago
+644,UF,2180,1,1,33.0,Centro Histórico De Santiago,Santiago
+645,UF,2690,2,2,45.0,Centro Histórico De Santiago,Santiago
+646,UF,2295,1,1,37.0,Departamento en venta | Oportunidad De Inversión Metro Santa Ana | Por Engel & Völkers Ñuñoa | UF | 2.295 | Publicado hoy | 1 dormitorio | 1 baño | 37 m² útiles | Centro Histórico De Santiago,Santiago
+647,UF,2250,1,1,37.0,Ejército - Toesca,Santiago
+648,UF,2500,1,1,32.0,Departamento en venta | Luminoso Departamento Parque Almagro | Por Engel & Völkers Ñuñoa | UF | 2.500 | Publicado esta semana | 1 dormitorio | 1 baño | 32 m² útiles | San Diego,Santiago
+649,UF,2300,2,2,44.0,Departamento en venta | Luminoso Departamento Con Vista Despejada 2d 2b | Por Engel & Völkers Ñuñoa | UF | 2.300 | Publicado esta semana | 2 dormitorios | 2 baños | 44 m² útiles | Santa Isabel,Santiago
+650,UF,1700,1,1,26.0,Departamento en venta | Oportunidad Inversión General Gana | Por Engel & Völkers Ñuñoa | UF | 1.700 | Publicado esta semana | 1 dormitorio | 1 baño | 26 m² útiles | Franklin - Biobío,Santiago
+651,UF,5600,2,2,60.0,Lastarria | Por Engel & Völkers Ñuñoa | UF | 5.600 | 2 dormitorios | 2 baños | 60 m² útiles | Barrio Lastarria,Santiago
+652,$,65000000,1,1,23.0,Centro Histórico De Santiago,Santiago
+653,UF,3100,2,2,56.0,Departamento en venta | Luminoso Departamento En Casco Histórico | Por Engel & Völkers Ñuñoa | UF | 3.100 | 2 dormitorios | 2 baños | 56 m² útiles | Centro Histórico De Santiago,Santiago
+654,UF,3150,2,2,47.0,Barrio República,Santiago
+655,UF,2600,2,1,51.0,Departamento en venta | Acogedor Depto En Condominio Cerrado | Por Engel & Völkers Ñuñoa | UF | 2.600 | 2 dormitorios | 1 baño | 51 m² útiles | Barrio Brasil,Santiago
+656,UF,3600,2,1,46.0,Bulnes,Santiago
+657,UF,3600,2,1,46.0,Bulnes,Santiago
+658,UF,2300,2,1,36.0,Parque Almagro,Santiago
+659,UF,2600,1,1,27.0,Centro Histórico De Santiago,Santiago
+660,UF,1900,1,1,28.0,Departamento en venta | Vive El Centro Histórico A Pasos Del Parque Forestal - 1d/1b | Por Engel & Völkers Ñuñoa | UF | 1.900 | Publicado esta semana | 1 dormitorio | 1 baño | 28 m² útiles | Centro Histórico De Santiago,Santiago
+661,UF,13500,3,2,189.0,Centro Histórico De Santiago,Santiago
+662,UF,2217,1,1,32.0,Barrio Brasil,Santiago
+663,UF,1800,1,1,32.0,Bulnes,Santiago
+664,UF,1990,1,1,34.0,Centro Histórico De Santiago,Santiago
+665,UF,3700,1,1,34.0,Centro Histórico De Santiago,Santiago
+666,UF,3700,2,2,59.0,Departamento en venta | Oportunidad / Venta Dpto 2d+2b+estac+bodega | Por Engel & Völkers Ñuñoa | UF | 3.700 | 2 dormitorios | 2 baños | 59 m² útiles | San Diego,Santiago
+667,UF,1900,1,1,33.0,Santa Isabel,Santiago
+668,UF,3713,2,2,86.0,San Diego,Santiago
+669,UF,2400,1,1,29.0,Parque Almagro,Santiago
+670,UF,1300,1,1,20.0,Centro Histórico De Santiago,Santiago
+671,UF,3610,2,1,75.0,San Diego,Santiago
+672,UF,4100,3,2,70.0,Parque O'Higgins,Santiago
+673,UF,3250,2,2,44.0,Santa Isabel,Santiago
+674,UF,1750,1,1,26.0,Centro Histórico De Santiago,Santiago
+675,UF,3219,3,2,65.0,San Diego,Santiago
+676,UF,3050,3,2,70.0,Parque O'Higgins,Santiago
+677,UF,2500,2,1,49.0,Bulnes,Santiago
+678,UF,1450,1,1,29.0,Parque O'Higgins,Santiago
+679,UF,1250,1,1,29.0,Parque O'Higgins,Santiago
+680,UF,2209,2,2,46.0,Barrio Diez De Julio,Santiago
+681,UF,1530,2,1,38.0,Parque O'Higgins,Santiago
+682,UF,1750,2,1,38.0,Parque O'Higgins,Santiago
+683,UF,1750,2,1,39.0,Parque O'Higgins,Santiago
+684,UF,2090,2,1,42.0,Barrio Diez De Julio,Santiago
+685,UF,1900,1,1,32.0,Bulnes,Santiago
+686,$,207000000,4,2,101.0,San Diego,Santiago
+687,UF,1690,1,1,35.0,Santa Isabel,Santiago
+688,UF,1850,1,1,35.0,Santa Isabel,Santiago
+689,UF,4450,2,1,74.0,Centro Histórico De Santiago,Santiago
+690,$,57000000,1,1,29.0,Ejército - Toesca,Santiago
+691,UF,990,,1,20.0,Franklin - Biobío,Santiago
+692,$,120000000,2,2,73.0,Centro Histórico De Santiago,Santiago
+693,UF,2390,2,1,40.0,Centro Histórico De Santiago,Santiago
+694,UF,2050,2,1,65.0,Centro Histórico De Santiago,Santiago
+695,UF,1100,1,1,20.0,Parque O'Higgins,Santiago
+696,UF,3525,2,2,43.0,Centro Histórico De Santiago,Santiago
+697,UF,3475,2,2,43.0,Centro Histórico De Santiago,Santiago
+698,UF,3300,1,1,31.0,Bogotá - Sierra Bella,Santiago
+699,$,60000000,1,1,26.0,Santa Isabel,Santiago
+700,UF,2900,3,2,51.0,Bulnes,Santiago
+701,UF,3321,1,1,29.0,Ejército - Toesca,Santiago
+702,UF,1800,3,1,47.0,Bogotá - Sierra Bella,Santiago
+703,UF,2700,1,1,27.0,Departamento en venta | Departamento En Venta En Santiago | UF | 2.700 | 1 dormitorio | 1 baño | 27 m² útiles | Santo Domingo,Santiago
+704,UF,2690,1,1,29.0,Departamento en venta | Departamento En Venta En Santiago | UF | 2.690 | 1 dormitorio | 1 baño | 29 m² útiles | Santo Domingo,Santiago
+705,UF,4655,2,1,46.0,Parque Almagro,Santiago
+706,UF,2890,1,1,41.0,Dieciocho,Santiago
+707,$,103000000,2,2,42.0,Santa Isabel,Santiago
+708,UF,2450,1,1,38.0,San Diego,Santiago
+709,$,60000000,1,1,32.0,Santa Isabel,Santiago
+710,UF,1985,1,1,36.0,Centro Histórico De Santiago,Santiago
+711,UF,2940,2,2,54.0,Ejército - Toesca,Santiago
+712,UF,2300,1,1,36.0,Bogotá - Sierra Bella,Santiago
+713,UF,2800,2,2,62.0,Santa Isabel,Santiago
+714,UF,2950,1,1,40.0,Ejército - Toesca,Santiago
+715,UF,2990,2,1,57.0,Parque Almagro,Santiago
+716,UF,3000,2,1,43.0,Bogotá - Sierra Bella,Santiago
+717,UF,1900,1,1,31.0,Ejército - Toesca,Santiago
+718,UF,1750,1,1,32.0,Centro Histórico De Santiago,Santiago
+719,UF,1990,1,1,33.0,Centro Histórico De Santiago,Santiago
+720,UF,1800,1,1,31.0,Parque Almagro,Santiago
+721,UF,2950,1,1,32.0,Santa Isabel,Santiago
+722,$,132000000,3,2,72.0,Ejército - Toesca,Santiago
+723,UF,3100,2,2,58.0,San Diego,Santiago
+724,UF,3800,3,2,134.0,Centro Histórico De Santiago,Santiago
+725,$,58500000,1,1,40.0,Santa Isabel,Santiago
+726,UF,1409,1,1,30.0,Barrio Diez De Julio,Santiago
+727,UF,2180,2,1,44.0,Parque O'Higgins,Santiago
+728,UF,3532,3,2,58.0,Bogotá - Sierra Bella,Santiago
+729,UF,3103,2,2,71.0,Bulnes,Santiago
+730,UF,1690,1,1,33.0,Santa Isabel,Santiago
+731,$,45000000,1,1,33.0,Barrio Brasil,Santiago
+732,UF,2790,3,2,81.0,Parque O'Higgins,Santiago
+733,UF,2600,2,2,54.0,Parque O'Higgins,Santiago
+734,UF,2350,1,1,35.0,Centro Histórico De Santiago,Santiago
+735,UF,2350,2,2,58.0,Barrio Yungay,Santiago
+736,UF,1083,1,1,25.0,Parque Los Reyes,Santiago
+737,UF,1555,1,1,30.0,Parque O'Higgins,Santiago
+738,UF,1650,1,1,25.0,Centro Histórico De Santiago,Santiago
+739,UF,2838,2,2,48.0,Bogotá - Sierra Bella,Santiago
+740,UF,2990,1,1,30.0,San Diego,Santiago
+741,UF,2700,2,2,53.0,Centro Histórico De Santiago,Santiago
+742,UF,3100,2,2,58.0,Parque O'Higgins,Santiago
+743,UF,4046,3,2,75.0,Ejército - Toesca,Santiago
+744,$,101000000,2,2,54.0,Centro Histórico De Santiago,Santiago
+745,UF,2850,2,2,50.0,Bulnes,Santiago
+746,UF,1550,1,1,29.0,San Diego,Santiago
+747,$,110000000,1,1,42.0,Centro Histórico De Santiago,Santiago
+748,UF,2050,1,1,30.0,Centro Histórico De Santiago,Santiago
+749,UF,1929,2,1,38.0,Parque O'Higgins,Santiago
+750,UF,4500,2,2,57.0,Santa Isabel,Santiago
+751,UF,2670,2,2,53.0,Bulnes,Santiago
+752,UF,2950,2,2,53.0,Bulnes,Santiago
+753,UF,2100,1,1,35.0,Santa Isabel,Santiago
+754,UF,1450,1,1,25.0,Parque Almagro,Santiago
+755,UF,2100,1,1,30.0,Bulnes,Santiago
+756,$,90000000,2,1,65.0,San Diego,Santiago
+757,$,65000000,2,1,36.0,Parque O'Higgins,Santiago
+758,UF,2700,2,2,50.0,San Diego,Santiago
+759,UF,2027,1,1,36.0,Ejército - Toesca,Santiago
+760,$,139000000,3,1,10.0,Barrio San Borja,Santiago
+761,UF,2490,2,2,41.0,Centro Histórico De Santiago,Santiago
+762,UF,2550,1,1,36.0,Parque Los Reyes,Santiago
+763,UF,3400,2,2,46.0,Santa Isabel,Santiago
+764,UF,3700,3,2,58.0,Barrio Diez De Julio,Santiago
+765,UF,2100,1,1,29.0,Centro Histórico De Santiago,Santiago
+766,UF,1700,1,1,32.0,Santa Isabel,Santiago
+767,UF,2490,1,,32.0,Santa Isabel,Santiago
+768,$,70990000,2,2,37.0,Parque Los Reyes,Santiago
+769,UF,3200,2,1,42.0,Barrio Diez De Julio,Santiago
+770,$,86000000,2,1,52.0,Barrio Yungay,Santiago
+771,UF,7218,5,3,160.0,Centro Histórico De Santiago,Santiago
+772,UF,2190,1,1,34.0,Barrio República,Santiago
+773,UF,7100,3,2,166.0,Barrio Lastarria,Santiago
+774,UF,2700,2,2,52.0,Ejército - Toesca,Santiago
+775,$,98000000,2,1,38.0,Bulnes,Santiago
+776,UF,3350,2,2,57.0,Santa Isabel,Santiago
+777,UF,5770,4,3,86.0,Parque O'Higgins,Santiago
+778,UF,3450,2,2,48.0,Parque Los Reyes,Santiago
+779,UF,1850,1,1,31.0,Centro Histórico De Santiago,Santiago
+780,UF,2300,2,2,44.0,Bulnes,Santiago
+781,UF,2090,1,1,34.0,San Diego,Santiago
+782,UF,3200,2,2,67.0,Barrio República,Santiago
+783,UF,1850,1,1,34.0,San Diego,Santiago
+784,UF,3800,2,2,53.0,Santa Isabel,Santiago
+785,UF,1650,1,1,29.0,Centro Histórico De Santiago,Santiago
+786,UF,2650,1,1,33.0,San Diego,Santiago
+787,$,73000000,1,1,32.0,Franklin - Biobío,Santiago
+788,UF,2900,2,2,43.0,Ejército - Toesca,Santiago
+789,UF,2540,2,2,60.0,Parque Los Reyes,Santiago
+790,UF,1790,1,1,26.0,Barrio Yungay,Santiago
+791,UF,3220,2,2,54.0,San Diego,Santiago
+792,UF,3900,2,2,61.0,Santa Isabel,Santiago
+793,UF,2600,1,1,31.0,Santa Isabel,Santiago
+794,UF,4500,2,2,55.0,Santa Isabel,Santiago
+795,UF,2600,2,2,53.0,Bogotá - Sierra Bella,Santiago
+796,UF,1950,1,1,32.0,Centro Histórico De Santiago,Santiago
+797,UF,2700,2,2,55.0,Parque Almagro,Santiago
+798,UF,1838,1,1,30.0,San Diego,Santiago
+799,UF,3800,2,2,55.0,Santa Isabel,Santiago
+800,UF,2100,1,1,29.0,Barrio Lastarria,Santiago
+801,UF,2200,2,2,41.0,Centro Histórico De Santiago,Santiago
+802,$,140000000,2,2,58.0,Ejército - Toesca,Santiago
+803,UF,2800,1,1,35.0,Barrio República,Santiago
+804,$,69990000,2,1,48.0,Centro Histórico De Santiago,Santiago
+805,UF,2931,1,1,40.0,Ejército - Toesca,Santiago
+806,UF,2754,1,1,46.0,Centro Histórico De Santiago,Santiago
+807,UF,3300,2,2,56.0,Barrio República,Santiago
+808,UF,1700,2,2,43.0,Franklin - Biobío,Santiago
+809,UF,2200,1,1,31.0,Santa Isabel,Santiago
+810,UF,2100,1,1,42.0,Santa Isabel,Santiago
+811,UF,1700,1,1,33.0,Centro Histórico De Santiago,Santiago
+812,UF,2190,1,1,35.0,Centro Histórico De Santiago,Santiago
+813,$,90000000,2,2,45.0,Centro Histórico De Santiago,Santiago
+814,UF,1950,1,1,37.0,Centro Histórico De Santiago,Santiago
+815,UF,3400,2,2,50.0,Santa Isabel,Santiago
+816,$,95000000,1,1,40.0,Bogotá - Sierra Bella,Santiago
+817,UF,1980,1,1,29.0,Barrio Lastarria,Santiago
+818,UF,2100,2,1,35.0,Parque O'Higgins,Santiago
+819,UF,2490,2,1,35.0,Santa Isabel,Santiago
+820,UF,2450,1,1,38.0,Departamento en venta | Departamento En Venta En Santiago | UF | 2.450 | 1 dormitorio | 1 baño | 38 m² útiles | Santa Isabel / Santa Rosa,Santiago
+821,UF,2000,1,1,37.0,Santa Isabel,Santiago
+822,UF,3100,2,2,57.0,Ejército - Toesca,Santiago
+823,UF,1680,1,1,27.0,Centro Histórico De Santiago,Santiago
+824,UF,1929,2,1,38.0,Parque O'Higgins,Santiago
+825,UF,1929,2,1,38.0,Parque O'Higgins,Santiago
+826,UF,1929,2,1,38.0,Parque O'Higgins,Santiago
+827,UF,3475,2,2,45.0,Centro Histórico De Santiago,Santiago
+828,UF,1990,1,1,28.0,Parque O'Higgins,Santiago
+829,$,80000000,1,1,33.0,Bulnes,Santiago
+830,UF,4500,1,1,50.0,Ejército - Toesca,Santiago
+831,UF,4390,3,2,101.0,Bulnes,Santiago
+832,UF,1600,1,1,27.0,Santa Isabel,Santiago
+833,UF,2400,1,1,37.0,Bulnes,Santiago
+834,$,110000000,2,2,49.0,Centro Histórico De Santiago,Santiago
+835,UF,2500,2,2,47.0,Departamento en venta | Departamento Para Inversión Con Metro A La Puerta | UF | 2.500 | 2 dormitorios | 2 baños | 47 m² totales | Centro Histórico De Santiago,Santiago
+836,$,75000000,1,1,34.0,Departamento en venta | Excelente Departamento En Venta Santa Isabel | $ | 75.000.000 | 1 dormitorio | 1 baño | 34 m² útiles | Santa Isabel,Santiago
+837,$,69900000,3,2,54.0,San Diego,Santiago
+838,UF,1900,1,1,32.0,Ejército - Toesca,Santiago
+839,UF,2500,2,2,39.0,Centro Histórico De Santiago,Santiago
+840,UF,2400,,1,27.0,Barrio República,Santiago
+841,UF,2550,2,1,47.0,Santa Isabel,Santiago
+842,UF,2600,2,2,53.0,Santa Isabel,Santiago
+843,UF,2780,2,2,52.0,Barrio Diez De Julio,Santiago
+844,UF,2000,2,1,44.0,Centro Histórico De Santiago,Santiago
+845,UF,3490,3,2,65.0,Santa Isabel,Santiago
+846,UF,1821,1,1,32.0,Bogotá - Sierra Bella,Santiago
+847,UF,1900,1,1,35.0,Santa Isabel,Santiago
+848,$,65000000,1,1,31.0,Parque Almagro,Santiago
+849,UF,2350,1,1,39.0,Santa Isabel,Santiago
+850,UF,3100,2,2,42.0,Departamento en venta | Venta Luminoso Departamento En Santiago | Por Property Partners | UF | 3.100 | 2 dormitorios | 2 baños | 42 m² útiles | Santiago,Bogotá - Sierra Bella
+851,UF,3300,1,1,33.0,Departamento en venta | Departamento Amoblado Y Perfecto Para Airbnb O Est... | Por Property Partners | UF | 3.300 | 1 dormitorio | 1 baño | 33 m² útiles | Santiago,Bogotá - Sierra Bella
+852,UF,1900,1,1,40.0,Departamento en venta | Oportunidad Venta/ 1d/1b / Metro Santa Ana | Por Property Partners | UF | 1.900 | 1 dormitorio | 1 baño | 40 m² útiles | Santiago,Centro Histórico De Santiago
+853,UF,1870,1,1,29.0,Departamento en venta | Departamento Remodelado En Amunátegui | Por Property Partners | UF | 1.870 | 1 dormitorio | 1 baño | 29 m² útiles | Santiago,Centro Histórico De Santiago
+854,UF,1877,1,1,35.0,Departamento en venta | A La Venta Dpto. Muy Bien Cuidado | Por Property Partners | UF | 1.877 | 1 dormitorio | 1 baño | 35 m² útiles | Santiago,Parque O'Higgins
+855,UF,1600,1,1,26.0,Departamento en venta | Oportunidad Departamento 1 Ambiente | Por Property Partners | UF | 1.600 | 1 dormitorio | 1 baño | 26 m² útiles | Santiago,Centro Histórico De Santiago
+856,UF,7400,7,3,185.0,Departamento en venta | Oficina Ubicado A Pasos Del Cerro Santa Lucía | Por Property Partners | UF | 7.400 | 7 dormitorios | 3 baños | 185 m² útiles | Santiago,Centro Histórico De Santiago
+857,UF,1800,1,1,32.0,Departamento En Venta!! | Por Property Partners | UF | 1.800 | 1 dormitorio | 1 baño | 32 m² útiles | Santiago,Santa Isabel
+858,UF,17500,5,3,275.0,Departamento en venta | Espectacular Departamento Grandes Espacios En Parq... | Por Property Partners | UF | 17.500 | 5 dormitorios | 3 baños | 275 m² útiles | Santiago,Barrio Lastarria
+859,UF,2575,2,2,48.0,Santiago. Cercano A... | Por Property Partners | UF | 2.575 | 2 dormitorios | 2 baños | 48 m² útiles | Santiago,San Diego
+860,UF,2800,2,2,58.0,Cercano Metro Santa... | Por Property Partners | UF | 2.800 | 2 dormitorios | 2 baños | 58 m² útiles | Santiago,Barrio Diez De Julio
+861,UF,3105,2,2,55.0,Departamento en venta | Venta De Departamento Muy Cerca Del Metro | Por Property Partners | UF | 3.105 | 2 dormitorios | 2 baños | 55 m² útiles | Santiago,Centro Histórico De Santiago
+862,$,105000000,2,1,34.0,Bogotá - Sierra Bella,Santiago
+863,UF,1800,1,1,28.0,Bulnes,Santiago
+864,UF,6806,7,3,166.0,Departamento en venta | Increíble Oficina En Santiago Centro | Por Property Partners | UF | 6.806 | 7 dormitorios | 3 baños | 166 m² útiles | Santiago,Centro Histórico De Santiago
+865,UF,1699,1,1,33.0,Departamento en venta | Oferta!!! Oportunidad Departamento Metro Santa Luc... | Por Property Partners | UF | 1.699 | Publicado esta semana | 1 dormitorio | 1 baño | 33 m² útiles | Santiago,Bulnes
+866,UF,3640,3,2,76.0,Santiago | Por Property Partners | UF | 3.640 | 3 dormitorios | 2 baños | 76 m² útiles | Santiago,Parque Almagro
+867,UF,1900,1,1,34.0,Departamento en venta | Departamento En Lord Cochrane | Por Property Partners | UF | 1.900 | 1 dormitorio | 1 baño | 34 m² útiles | Santiago,Bulnes
+868,UF,2300,1,1,32.0,Departamento en venta | ¡invierte En Un De Departamento En Hotel Sommelier... | Por Property Partners | UF | 2.300 | 1 dormitorio | 1 baño | 32 m² útiles | Santiago,Centro Histórico De Santiago
+869,UF,2200,1,1,37.0,Departamento en venta | Moderno Y Compacto Departamento Ideal Para Inversi... | Por Property Partners | UF | 2.200 | 1 dormitorio | 1 baño | 37 m² útiles | Santiago,Santa Isabel
+870,UF,2475,1,1,29.0,Departamento en venta | Oficina En Calle Huérfanos Con Mac Iver | Por Property Partners | UF | 2.475 | 1 dormitorio | 1 baño | 29 m² útiles | Santiago,Centro Histórico De Santiago
+871,UF,2862,2,1,43.0,Departamento en venta | Oferta!! Departamento En Arturo Prat En Liquidació... | Por Property Partners | UF | 2.862 | 2 dormitorios | 1 baño | 43 m² útiles | Santiago,San Diego
+872,UF,6000,3,2,112.0,Departamento en venta | Amplio Departamento En Amunátegui | Por Property Partners | UF | 6.000 | 3 dormitorios | 2 baños | 112 m² útiles | Santiago,Centro Histórico De Santiago
+873,UF,2650,3,1,62.0,Departamento en venta | Departamento En Venta | Por Property Partners | UF | 2.650 | 3 dormitorios | 1 baño | 62 m² útiles | Santiago,Barrio Diez De Julio
+874,UF,1755,1,1,31.0,Santiago | Por Property Partners | UF | 1.755 | 1 dormitorio | 1 baño | 31 m² útiles | Santiago,Franklin - Biobío
+875,UF,2280,1,1,33.0,Santiago | Por Property Partners | UF | 2.280 | 1 dormitorio | 1 baño | 33 m² útiles | Santiago,Parque O'Higgins
+876,UF,2155,1,1,31.0,Departamento en venta | Departamento En Venta A Pasos De Plaza San Isidro | Por Property Partners | UF | 2.155 | 1 dormitorio | 1 baño | 31 m² útiles | Santiago,Santa Isabel
+877,UF,6909,11,5,177.0,Departamento en venta | Departamento Vista Al Cerro Santa Lucía | Por Property Partners | UF | 6.909 | 11 dormitorios | 5 baños | 177 m² útiles | Santiago,Barrio San Borja
+878,UF,2990,2,2,58.0,Santa Isabel,Santiago
+879,UF,3400,3,2,73.0,Departamento en venta | Venta Estupendo Departamento Excelentes Condicione... | Por Property Partners | UF | 3.400 | 3 dormitorios | 2 baños | 73 m² útiles | Santiago,Barrio Diez De Julio
+880,UF,3320,2,2,57.0,Departamento en venta | Loft En Tarapacá | Por Property Partners | UF | 3.320 | 2 dormitorios | 2 baños | 57 m² útiles | Santiago,Bulnes
+881,UF,2200,1,1,53.0,Departamento en venta | Amplio Departamento Con Cocina Independiente | Por Property Partners | UF | 2.200 | 1 dormitorio | 1 baño | 53 m² útiles | Santiago,Centro Histórico De Santiago
+882,UF,2550,1,1,33.0,San... | Por Property Partners | UF | 2.550 | Publicado esta semana | 1 dormitorio | 1 baño | 33 m² útiles | Santiago,San Diego
+883,UF,3000,1,1,42.0,Departamento en venta | Gran Departamento Remodelado!! Metro Los Heroes | Por Property Partners | UF | 3.000 | 1 dormitorio | 1 baño | 42 m² útiles | Santiago,Dieciocho
+884,UF,3700,2,2,61.0,Departamento en venta | Departamento En Eyzaguirre | Por Property Partners | UF | 3.700 | 2 dormitorios | 2 baños | 61 m² útiles | Santiago,San Diego
+885,UF,3600,2,2,58.0,Departamento en venta | Espacioso Departamento En Calle Tocornal | Por Property Partners | UF | 3.600 | 2 dormitorios | 2 baños | 58 m² útiles | Santiago,Santa Isabel
+886,UF,3500,3,2,64.0,Departamento en venta | Departamento En Casco Histórico De Santiago - Sect... | Por Property Partners | UF | 3.500 | 3 dormitorios | 2 baños | 64 m² útiles | Santiago,Parque O'Higgins
+887,UF,4323,7,3,123.0,Departamento en venta | Departamento Vista Al Cerro Santa Lucía | Por Property Partners | UF | 4.323 | 7 dormitorios | 3 baños | 123 m² útiles | Santiago,Barrio San Borja
+888,UF,4664,8,3,133.0,Departamento en venta | Departamento Vista Al Cerro Santa Lucía | Por Property Partners | UF | 4.664 | 8 dormitorios | 3 baños | 133 m² útiles | Santiago,Barrio San Borja
+889,UF,2159,1,1,34.0,Departamento en venta | Excelente Oportunidad | Por Property Partners | UF | 2.159 | 1 dormitorio | 1 baño | 34 m² útiles | Santiago,Bogotá - Sierra Bella
+890,UF,2049,1,1,39.0,Departamento en venta | Real Oportunidad!!! Departamento Excelente Ubicaci... | Por Property Partners | UF | 2.049 | 1 dormitorio | 1 baño | 39 m² útiles | Santiago,Centro Histórico De Santiago
+891,UF,3400,3,2,69.0,Parque Almagro,Santiago
+892,$,300000000,6,3,148.0,Centro Histórico De Santiago,Santiago
+893,UF,22950,37,15,626.0,Departamento en venta | ¡pack Inversionista! - Departamentos Con Vista A C... | Por Property Partners | UF | 22.950 | 37 dormitorios | 15 baños | 626 m² útiles | Santiago,Barrio San Borja
+894,UF,2049,1,1,39.0,Departamento en venta | Oportunidad Única!! Departamento Excelente Ubicaci... | Por Property Partners | UF | 2.049 | 1 dormitorio | 1 baño | 39 m² útiles | Santiago,Centro Histórico De Santiago
+895,UF,1530,1,1,32.0,Barrio Yungay,Santiago
+896,UF,1620,2,1,42.0,Parque O'Higgins,Santiago
+897,UF,2500,2,1,44.0,Bulnes,Santiago
+898,$,250000000,3,2,142.0,Centro Histórico De Santiago,Santiago
+899,UF,3300,2,2,54.0,Santa Isabel,Santiago
+900,UF,2100,1,1,32.0,Centro Histórico De Santiago,Santiago
+901,UF,1800,1,1,39.0,Ejército - Toesca,Santiago
+902,UF,3000,3,2,80.0,Santa Isabel,Santiago
+903,UF,2050,2,1,55.0,Parque Los Reyes,Santiago
+904,UF,1850,,1,34.0,San Diego,Santiago
+905,UF,2490,2,2,40.0,Bogotá - Sierra Bella,Santiago
+906,UF,3092,2,2,80.0,Centro Histórico De Santiago,Santiago
+907,UF,3100,2,2,40.0,Franklin - Biobío,Santiago
+908,UF,2350,2,1,39.0,Centro Histórico De Santiago,Santiago
+909,UF,1620,1,1,27.0,San Diego,Santiago
+910,UF,3800,3,2,65.0,Santa Isabel,Santiago
+911,$,150000000,3,2,78.0,Parque Almagro,Santiago
+912,UF,2690,1,1,34.0,Bogotá - Sierra Bella,Santiago
+913,UF,2890,3,1,48.0,Bogotá - Sierra Bella,Santiago
+914,UF,3000,3,2,71.0,Bulnes,Santiago
+915,UF,2100,1,1,38.0,Barrio Diez De Julio,Santiago
+916,UF,2100,1,1,38.0,Barrio Diez De Julio,Santiago
+917,UF,3500,3,2,71.0,Centro Histórico De Santiago,Santiago
+918,UF,2560,2,1,41.0,San Diego,Santiago
+919,UF,1600,1,1,29.0,Bogotá - Sierra Bella,Santiago
+920,$,110000000,3,1,64.0,Barrio San Borja,Santiago
+921,UF,4500,3,2,116.0,Barrio San Borja,Santiago
+922,UF,1600,1,1,32.0,San Diego,Santiago
+923,UF,1600,1,1,27.0,Santa Isabel,Santiago
+924,UF,1600,1,1,32.0,San Diego,Santiago
+925,UF,1600,1,1,31.0,San Diego,Santiago
+926,UF,2000,1,1,30.0,Barrio Diez De Julio,Santiago
+927,UF,2450,1,1,38.0,Santa Isabel,Santiago
+928,UF,2570,1,1,31.0,Parque Almagro,Santiago
+929,UF,2894,3,2,65.0,Centro Histórico De Santiago,Santiago
+930,UF,1950,1,1,34.0,Centro Histórico De Santiago,Santiago
+931,UF,1950,1,1,32.0,Parque O'Higgins,Santiago
+932,UF,3000,1,1,34.0,34/36m2 | UF | 3.000 | 1 dormitorio | 1 baño | 34 m² útiles | Santa Isabel,Santiago
+933,UF,1790,1,1,35.0,Santa Isabel,Santiago
+934,UF,4800,2,2,50.0,Ejército - Toesca,Santiago
+935,UF,1920,1,1,30.0,Santa Isabel,Santiago
+936,UF,2900,3,2,50.0,Santa Isabel,Santiago
+937,UF,3300,2,2,49.0,Santa Isabel,Santiago
+938,$,102500000,2,1,58.0,Barrio Brasil,Santiago
+939,UF,1900,1,1,31.0,Centro Histórico De Santiago,Santiago
+940,UF,4200,2,2,56.0,Santa Isabel,Santiago
+941,UF,1779,1,1,30.0,Centro Histórico De Santiago,Santiago
+942,UF,2850,1,1,40.0,Ejército - Toesca,Santiago
+943,UF,3600,3,2,80.0,San Diego,Santiago
+944,UF,1890,1,1,30.0,Centro Histórico De Santiago,Santiago
+945,UF,2490,1,1,47.0,Centro Histórico De Santiago,Santiago
+946,UF,3300,2,2,56.0,Santa Isabel,Santiago
+947,$,59000000,1,1,27.0,Centro Histórico De Santiago,Santiago
+948,$,75000000,1,1,38.0,Barrio República,Santiago
+949,UF,1485,1,1,25.0,Centro Histórico De Santiago,Santiago
+950,UF,1485,1,1,25.0,Centro Histórico De Santiago,Santiago
+951,UF,2300,1,1,38.0,San Diego,Santiago
+952,$,450000000,2,3,175.0,Barrio Lastarria,Santiago
+953,UF,2500,1,1,32.0,Parque Almagro,Santiago
+954,UF,1290,1,1,28.0,Parque O'Higgins,Santiago
+955,UF,2250,1,1,33.0,Parque Almagro,Santiago
+956,UF,2422,2,2,49.0,Bulnes,Santiago
+957,UF,2950,2,1,42.0,Santa Isabel,Santiago
+958,UF,1700,1,1,29.0,Santa Isabel,Santiago
+959,UF,3000,1,1,34.0,34/36m2 | UF | 3.000 | 1 dormitorio | 1 baño | 34 m² útiles | Santa Isabel,Santiago
+960,$,74850000,1,1,37.0,Centro Histórico De Santiago,Santiago
+961,UF,1500,1,1,21.0,Parque Almagro,Santiago
+962,UF,1800,1,1,30.0,Barrio Diez De Julio,Santiago
+963,UF,1800,1,1,30.0,Bulnes,Santiago
+964,UF,1700,1,1,30.0,Centro Histórico De Santiago,Santiago
+965,UF,2400,3,1,63.0,Centro Histórico De Santiago,Santiago
+966,UF,1850,1,1,30.0,Barrio Diez De Julio,Santiago
+967,$,69000000,2,1,44.0,Barrio Yungay,Santiago
+968,UF,2200,1,1,40.0,Centro Histórico De Santiago,Santiago
+969,UF,2750,2,1,50.0,Barrio República,Santiago
+970,UF,19800,6,3,275.0,Barrio Lastarria,Santiago
+971,UF,1490,1,1,26.0,Centro Histórico De Santiago,Santiago
+972,UF,3200,2,2,53.0,Santa Isabel,Santiago
+973,UF,2400,1,1,34.0,San Diego,Santiago
+974,UF,2200,1,1,40.0,Parque Almagro,Santiago
+975,$,100000000,2,2,54.0,Centro Histórico De Santiago,Santiago
+976,UF,2484,1,1,35.0,Parque Almagro,Santiago
+977,UF,2415,1,1,35.0,Parque Almagro,Santiago
+978,UF,1550,1,1,23.0,Parque O'Higgins,Santiago
+979,$,60500000,1,1,34.0,Centro Histórico De Santiago,Santiago
+980,UF,2500,1,1,35.0,San Diego,Santiago
+981,UF,1750,2,1,45.0,Parque Los Reyes,Santiago
+982,UF,2300,1,1,33.0,Centro Histórico De Santiago,Santiago
+983,UF,17500,5,4,273.0,Centro Histórico De Santiago,Santiago
+984,UF,3200,2,2,50.0,Barrio Diez De Julio,Santiago
+985,UF,2400,1,1,37.0,Bogotá - Sierra Bella,Santiago
+986,UF,3500,2,2,60.0,Santa Isabel,Santiago
+987,UF,4560,2,2,50.0,Centro Histórico De Santiago,Santiago
+988,UF,2100,1,1,32.0,Bulnes,Santiago
+989,$,92000000,2,1,47.0,Parque Almagro,Santiago
+990,UF,2800,2,2,50.0,Ejército - Toesca,Santiago
+991,UF,3200,2,2,43.0,Santa Isabel,Santiago
+992,UF,3700,2,2,67.0,Santa Isabel,Santiago
+993,$,72000000,1,1,40.0,Centro Histórico De Santiago,Santiago
+994,UF,3000,1,1,37.0,Santa Isabel,Santiago
+995,UF,3420,2,1,50.0,Santa Isabel,Santiago
+996,$,78500000,1,1,30.0,Parque Los Reyes,Santiago
+997,UF,3350,2,1,49.0,Bogotá - Sierra Bella,Santiago
+998,UF,2750,1,1,50.0,Centro Histórico De Santiago,Santiago
+999,UF,2650,1,1,35.0,Barrio Diez De Julio,Santiago
+1000,UF,2790,1,1,35.0,Santa Isabel,Santiago
+1001,UF,2950,1,1,42.0,Ejército - Toesca,Santiago
+1002,UF,1700,1,1,34.0,San Diego,Santiago
+1003,UF,2300,2,1,30.0,Parque Almagro,Santiago
+1004,UF,2100,1,1,32.0,Bulnes,Santiago
+1005,UF,1500,1,1,38.0,Parque O'Higgins,Santiago
+1006,UF,1850,1,1,35.0,Barrio San Borja,Santiago
+1007,$,47990000,2,1,38.0,Parque O'Higgins,Santiago
+1008,UF,3000,2,1,58.0,Centro Histórico De Santiago,Santiago
+1009,UF,3490,2,2,65.0,Centro Histórico De Santiago,Santiago
+1010,UF,2500,2,2,55.0,Centro Histórico De Santiago,Santiago
+1011,UF,2300,1,1,38.0,Ejército - Toesca,Santiago
+1012,UF,2168,2,2,52.0,Centro Histórico De Santiago,Santiago
+1013,UF,1999,2,2,54.0,Parque Almagro,Santiago
+1014,UF,2900,3,2,53.0,Bulnes,Santiago
+1015,UF,3800,2,2,60.0,Santa Isabel,Santiago
+1016,$,250000000,3,3,104.0,Parque O'Higgins,Santiago
+1017,UF,3150,2,2,51.0,Parque Almagro,Santiago
+1018,UF,2590,2,1,44.0,Bogotá - Sierra Bella,Santiago
+1019,UF,3290,3,2,66.0,Centro Histórico De Santiago,Santiago
+1020,UF,2900,1,1,30.0,Parque Almagro,Santiago
+1021,UF,2550,2,1,46.0,Parque O'Higgins,Santiago
+1022,$,113000000,4,2,83.0,Barrio Brasil,Santiago
+1023,UF,3400,2,2,45.0,Santa Isabel,Santiago
+1024,UF,3240,2,2,52.0,Ejército - Toesca,Santiago
+1025,UF,1350,2,1,39.0,Parque O'Higgins,Santiago
+1026,UF,1750,1,1,29.0,San Diego,Santiago
+1027,UF,2225,2,1,52.0,Barrio Yungay,Santiago
+1028,UF,3000,2,2,56.0,Santa Isabel,Santiago
+1029,UF,3900,1,1,31.0,Santa Isabel,Santiago
+1030,UF,3600,,2,70.0,Santa Isabel,Santiago
+1031,UF,1650,1,1,37.0,Bogotá - Sierra Bella,Santiago
+1032,UF,3330,3,2,66.0,Parque Los Reyes,Santiago
+1033,UF,3800,2,2,54.0,Santa Isabel,Santiago
+1034,UF,1750,1,1,30.0,Santa Isabel,Santiago
+1035,UF,3190,2,1,42.0,Parque Los Reyes,Santiago
+1036,UF,3300,1,1,34.0,Parque Almagro,Santiago
+1037,UF,1890,2,1,40.0,Santa Isabel,Santiago
+1038,UF,5350,3,3,132.0,Bulnes,Santiago
+1039,UF,3650,2,2,42.0,Santa Isabel,Santiago
+1040,UF,2750,2,2,56.0,Santa Isabel,Santiago
+1041,UF,2524,1,1,34.0,Parque Los Reyes,Santiago
+1042,UF,2900,1,1,38.0,Parque Los Reyes,Santiago
+1043,UF,3325,2,2,47.0,Parque Los Reyes,Santiago
+1044,UF,4900,3,2,75.0,Centro Histórico De Santiago,Santiago
+1045,$,70000000,2,1,44.0,Parque O'Higgins,Santiago
+1046,UF,3280,3,2,64.0,Parque O'Higgins,Santiago
+1047,UF,2280,1,1,38.0,Parque O'Higgins,Santiago
+1048,$,77000000,2,1,37.0,Bulnes,Santiago
+1049,UF,2400,1,1,37.0,Santa Isabel,Santiago
+1050,UF,2050,1,1,38.0,Parque Los Reyes,Santiago
+1051,UF,3800,2,2,47.0,Parque Almagro,Santiago
+1052,$,51000000,1,1,30.0,Centro Histórico De Santiago,Santiago
+1053,UF,1450,2,1,38.0,Parque O'Higgins,Santiago
+1054,UF,3460,3,2,95.0,Parque O'Higgins,Santiago
+1055,UF,2250,2,2,50.0,Parque Los Reyes,Santiago
+1056,UF,2900,2,2,48.0,Santa Isabel,Santiago
+1057,UF,2500,2,2,69.0,Bulnes,Santiago
+1058,UF,2500,2,2,51.0,San Diego,Santiago
+1059,UF,1650,2,1,39.0,Parque O'Higgins,Santiago
+1060,$,62000000,1,1,28.0,Centro Histórico De Santiago,Santiago
+1061,UF,2800,1,1,35.0,Centro Histórico De Santiago,Santiago
+1062,UF,1850,1,1,28.0,San Diego,Santiago
+1063,UF,1538,1,1,30.0,Parque O'Higgins,Santiago
+1064,UF,2150,2,1,45.0,Santa Isabel,Santiago
+1065,UF,2580,3,2,61.0,Parque Los Reyes,Santiago
+1066,UF,1500,1,1,26.0,Barrio Brasil,Santiago
+1067,$,78000000,2,2,47.0,Santa Isabel,Santiago
+1068,$,78000000,2,2,47.0,Santa Isabel,Santiago
+1069,UF,1830,1,1,33.0,Santa Isabel,Santiago
+1070,UF,2550,2,2,65.0,Barrio República,Santiago
+1071,UF,2050,2,1,38.0,Barrio Diez De Julio,Santiago
+1072,UF,1990,2,1,40.0,Parque O'Higgins,Santiago
+1073,UF,1800,1,1,34.0,Centro Histórico De Santiago,Santiago
+1074,UF,1755,1,1,31.0,Franklin - Biobío,Santiago
+1075,$,90000000,2,2,42.0,Bulnes,Santiago
+1076,UF,2200,1,1,35.0,San Diego,Santiago
+1077,UF,1600,,1,42.0,Centro Histórico De Santiago,Santiago
+1078,UF,1900,1,1,45.0,Barrio República,Santiago
+1079,UF,1400,2,1,45.0,San Diego,Santiago
+1080,UF,2100,1,1,,Bulnes,Santiago
+1081,$,79900000,2,1,45.0,Departamento en venta | Departamento Club Hípico/antofagasta | $ | 79.900.000 | 2 dormitorios | 1 baño | 45 m² útiles | Club Hípico/Antofagasta,Santiago
+1082,UF,1700,1,1,30.0,Centro Histórico De Santiago,Santiago
+1083,UF,2100,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1084,UF,2700,1,1,40.0,San Diego,Santiago
+1085,UF,1553,1,1,30.0,Barrio Diez De Julio,Santiago
+1086,UF,4900,3,2,80.0,Santa Isabel,Santiago
+1087,$,117000000,2,2,58.0,Parque Almagro,Santiago
+1088,$,70000000,1,1,30.0,Santa Isabel,Santiago
+1089,$,150000000,2,2,57.0,Parque O'Higgins,Santiago
+1090,UF,3350,2,2,42.0,San Diego,Santiago
+1091,$,135000000,2,2,43.0,Bulnes,Santiago
+1092,UF,2451,1,1,24.0,Barrio Brasil,Santiago
+1093,UF,2350,2,1,43.0,Bogotá - Sierra Bella,Santiago
+1094,UF,2268,2,1,54.0,Parque Almagro,Santiago
+1095,UF,3200,3,2,63.0,Barrio Brasil,Santiago
+1096,UF,2600,2,2,45.0,Santa Isabel,Santiago
+1097,UF,1650,1,1,30.0,Santa Isabel,Santiago
+1098,UF,1900,2,1,36.0,Parque Almagro,Santiago
+1099,UF,1859,1,1,35.0,Santa Isabel,Santiago
+1100,UF,1450,1,1,29.0,San Diego,Santiago
+1101,UF,2200,1,1,32.0,Santa Isabel,Santiago
+1102,UF,2800,1,1,33.0,San Diego,Santiago
+1103,UF,1890,1,1,26.0,Bogotá - Sierra Bella,Santiago
+1104,UF,3900,2,2,47.0,Santa Isabel,Santiago
+1105,UF,2200,1,1,31.0,Santa Isabel,Santiago
+1106,UF,2653,2,2,50.0,Centro Histórico De Santiago,Santiago
+1107,UF,3259,2,1,46.0,Barrio Diez De Julio,Santiago
+1108,UF,2200,1,1,45.0,Santa Isabel,Santiago
+1109,UF,2350,2,1,41.0,San Diego,Santiago
+1110,UF,2300,2,2,57.0,Centro Histórico De Santiago,Santiago
+1111,UF,4550,3,2,71.0,Ejército - Toesca,Santiago
+1112,UF,1650,1,1,36.0,Centro Histórico De Santiago,Santiago
+1113,UF,2350,2,2,59.0,Parque Almagro,Santiago
+1114,UF,1490,1,1,30.0,Parque Los Reyes,Santiago
+1115,UF,2652,1,1,35.0,Parque Los Reyes,Santiago
+1116,UF,1400,1,1,30.0,Parque Los Reyes,Santiago
+1117,$,53000000,1,1,30.0,Barrio San Borja,Santiago
+1118,UF,2800,2,2,44.0,Bogotá - Sierra Bella,Santiago
+1119,UF,1390,1,1,28.0,Parque O'Higgins,Santiago
+1120,UF,2599,2,1,50.0,Bulnes,Santiago
+1121,$,130000000,3,2,62.0,Parque O'Higgins,Santiago
+1122,UF,1500,1,1,29.0,San Diego,Santiago
+1123,UF,1750,1,1,30.0,Parque Almagro,Santiago
+1124,UF,1890,1,1,30.0,San Diego,Santiago
+1125,UF,1990,1,1,28.0,Santa Isabel,Santiago
+1126,UF,1850,1,1,30.0,Santa Isabel,Santiago
+1127,UF,1850,3,1,46.0,Bogotá - Sierra Bella,Santiago
+1128,UF,27000,,,,Parque Los Reyes,Santiago
+1129,UF,2540,1,1,40.0,Bulnes,Santiago
+1130,UF,2790,2,2,59.0,Barrio Diez De Julio,Santiago
+1131,UF,2100,2,2,51.0,Centro Histórico De Santiago,Santiago
+1132,UF,1790,2,1,45.0,Barrio Yungay,Santiago
+1133,UF,2900,2,1,38.0,Ejército - Toesca,Santiago
+1134,UF,2700,2,2,57.0,Parque Almagro,Santiago
+1135,UF,3700,2,2,57.0,Barrio Diez De Julio,Santiago
+1136,$,224000000,3,2,92.0,Barrio San Borja,Santiago
+1137,$,98000000,2,2,43.0,Santa Isabel,Santiago
+1138,$,125000000,,,51.0,San Diego,Santiago
+1139,UF,1350,1,1,23.0,Centro Histórico De Santiago,Santiago
+1140,UF,2450,2,2,53.0,Centro Histórico De Santiago,Santiago
+1141,UF,2300,1,1,34.0,Santa Isabel,Santiago
+1142,$,109000000,2,2,3.0,Santa Isabel,Santiago
+1143,UF,2900,2,2,63.0,Parque O'Higgins,Santiago
+1144,UF,3200,2,1,40.0,San Diego,Santiago
+1145,UF,2400,3,2,60.0,Franklin - Biobío,Santiago
+1146,UF,2600,2,2,49.0,Centro Histórico De Santiago,Santiago
+1147,UF,2485,1,1,29.0,Bogotá - Sierra Bella,Santiago
+1148,$,110000000,2,2,50.0,San Diego,Santiago
+1149,UF,4700,3,2,68.0,Barrio Diez De Julio,Santiago
+1150,UF,2450,1,1,34.0,San Diego,Santiago
+1151,UF,4100,3,2,57.0,Santa Isabel,Santiago
+1152,UF,3850,4,3,121.0,Bulnes,Santiago
+1153,UF,2900,2,2,50.0,Centro Histórico De Santiago,Santiago
+1154,UF,2150,1,1,31.0,Santa Isabel,Santiago
+1155,UF,1510,1,1,28.0,Centro Histórico De Santiago,Santiago
+1156,$,54000000,1,1,27.0,Centro Histórico De Santiago,Santiago
+1157,UF,1750,1,1,30.0,Santa Isabel,Santiago
+1158,$,98900000,2,2,48.0,San Diego,Santiago
+1159,$,88990000,3,1,105.0,San Diego,Santiago
+1160,UF,2000,1,1,34.0,Santa Isabel,Santiago
+1161,UF,2800,2,2,59.0,Barrio Diez De Julio,Santiago
+1162,UF,2400,2,1,52.0,Santa Isabel,Santiago
+1163,UF,2400,2,1,52.0,Santa Isabel,Santiago
+1164,UF,2800,2,2,59.0,Barrio Diez De Julio,Santiago
+1165,UF,3050,2,2,55.0,Centro Histórico De Santiago,Santiago
+1166,UF,1500,1,1,29.0,Bulnes,Santiago
+1167,UF,3000,2,1,50.0,Parque Almagro,Santiago
+1168,UF,1800,1,1,30.0,Santa Isabel,Santiago
+1169,UF,1500,1,1,31.0,Centro Histórico De Santiago,Santiago
+1170,UF,3000,2,1,50.0,Parque Almagro,Santiago
+1171,UF,1350,1,1,25.0,Barrio Yungay,Santiago
+1172,UF,1600,1,1,46.0,Santa Isabel,Santiago
+1173,UF,3000,3,2,52.0,Centro Histórico De Santiago,Santiago
+1174,UF,2500,1,1,35.0,San Diego,Santiago
+1175,UF,1700,1,1,28.0,Centro Histórico De Santiago,Santiago
+1176,UF,2208,1,1,37.0,Santa Isabel,Santiago
+1177,UF,3290,1,1,37.0,Barrio República,Santiago
+1178,UF,1660,1,1,33.0,Centro Histórico De Santiago,Santiago
+1179,UF,2300,1,1,39.0,Santa Isabel,Santiago
+1180,UF,2200,2,1,6.28,Parque O'Higgins,Santiago
+1181,UF,1850,1,1,46.0,Santa Isabel,Santiago
+1182,UF,2000,1,1,35.0,Ejército - Toesca,Santiago
+1183,UF,1500,1,1,32.0,Centro Histórico De Santiago,Santiago
+1184,$,62200000,1,1,33.0,Parque O'Higgins,Santiago
+1185,UF,3200,2,2,60.0,Ejército - Toesca,Santiago
+1186,UF,1500,1,1,31.0,Centro Histórico De Santiago,Santiago
+1187,UF,1800,1,1,29.0,Departamento En Venta De 1d/1b | Por True Home | UF | 1.800 | 1 dormitorio | 1 baño | 29 m² útiles | Equidistante A Metro San Diego Y Metro Universidad De Chile,Santiago
+1188,UF,3200,1,1,32.0,Bogotá - Sierra Bella,Santiago
+1189,UF,1200,1,1,25.0,Barrio Yungay,Santiago
+1190,UF,3200,2,2,54.0,Centro Histórico De Santiago,Santiago
+1191,UF,1800,1,1,29.0,Bulnes,Santiago
+1192,UF,1950,1,1,32.0,Santa Isabel,Santiago
+1193,UF,1800,1,1,29.0,Departamento en venta | Departamento En Venta De 1 Dorm. En Santiago | Por True Home | UF | 1.800 | 1 dormitorio | 1 baño | 29 m² útiles | Equidistante A Metro San Diego Y Metro Universidad De Chile,Santiago
+1194,UF,383,1,1,28.0,Parque Los Reyes,Santiago
+1195,UF,2800,2,2,62.0,Centro Histórico De Santiago,Santiago
+1196,UF,4150,3,2,68.0,Barrio Diez De Julio,Santiago
+1197,$,50000000,1,1,20.0,Parque Almagro,Santiago
+1198,UF,4900,2,2,60.0,Barrio República,Santiago
+1199,$,47000000,1,1,33.0,Parque O'Higgins,Santiago
+1200,UF,3200,2,2,46.0,Santa Isabel,Santiago
+1201,$,128000000,2,2,49.0,Ejército - Toesca,Santiago
+1202,$,96000000,2,1,48.0,San Diego,Santiago
+1203,UF,1950,1,,33.0,Centro Histórico De Santiago,Santiago
+1204,UF,2100,1,1,38.0,Barrio Diez De Julio,Santiago
+1205,UF,2400,1,1,41.0,Parque Los Reyes,Santiago
+1206,UF,2400,1,1,33.0,Bogotá - Sierra Bella,Santiago
+1207,UF,2500,2,2,48.0,Barrio Brasil,Santiago
+1208,UF,2500,2,2,58.0,Parque O'Higgins,Santiago
+1209,UF,1350,1,1,30.0,Bulnes,Santiago
+1210,UF,2000,1,1,32.0,Bulnes,Santiago
+1211,UF,1900,1,1,30.0,Santa Isabel,Santiago
+1212,UF,4100,2,2,62.0,Santa Isabel,Santiago
+1213,UF,2090,2,1,45.0,Bogotá - Sierra Bella,Santiago
+1214,UF,1600,,1,30.0,Ejército - Toesca,Santiago
+1215,UF,3000,2,2,54.0,Santa Isabel,Santiago
+1216,UF,1700,1,1,37.0,Santa Isabel,Santiago
+1217,UF,1700,1,1,35.0,Centro Histórico De Santiago,Santiago
+1218,UF,1300,2,1,33.0,Club Hípico,Santiago
+1219,UF,3000,1,1,33.0,Santa Isabel,Santiago
+1220,UF,1480,1,1,26.0,Centro Histórico De Santiago,Santiago
+1221,UF,2166,2,1,42.0,Santa Isabel,Santiago
+1222,UF,3750,2,2,58.0,Centro Histórico De Santiago,Santiago
+1223,UF,3000,2,2,59.0,Santa Isabel,Santiago
+1224,UF,2450,2,2,44.0,Parque Almagro,Santiago
+1225,$,110000000,2,2,52.0,Santa Isabel,Santiago
+1226,UF,2499,2,2,55.0,Santa Isabel,Santiago
+1227,$,97000000,2,2,52.0,Centro Histórico De Santiago,Santiago
+1228,$,54500000,1,1,32.0,Bogotá - Sierra Bella,Santiago
+1229,UF,4900,3,1,85.0,Centro Histórico De Santiago,Santiago
+1230,$,105000000,3,2,75.0,Centro Histórico De Santiago,Santiago
+1231,UF,1900,1,1,44.0,Centro Histórico De Santiago,Santiago
+1232,UF,1600,1,1,38.0,Barrio Yungay,Santiago
+1233,$,59000000,1,1,31.0,Centro Histórico De Santiago,Santiago
+1234,$,90000000,3,2,70.0,Centro Histórico De Santiago,Santiago
+1235,UF,3300,2,1,73.0,Santa Isabel,Santiago
+1236,UF,1990,1,1,31.0,Bulnes,Santiago
+1237,UF,1690,2,1,43.0,Parque O'Higgins,Santiago
+1238,UF,2600,1,1,37.0,Parque Almagro,Santiago
+1239,UF,3570,3,2,78.0,Barrio Brasil,Santiago
+1240,UF,2700,2,1,45.0,Ejército - Toesca,Santiago
+1241,$,159900000,2,2,74.0,Centro Histórico De Santiago,Santiago
+1242,$,65000000,1,1,32.0,Santa Isabel,Santiago
+1243,UF,2380,2,1,44.0,Centro Histórico De Santiago,Santiago
+1244,UF,1000,1,1,14.0,Club Hípico,Santiago
+1245,UF,3650,2,2,56.0,Santa Isabel,Santiago
+1246,UF,2600,1,1,40.0,Santa Isabel,Santiago
+1247,UF,2000,1,1,22.0,Bogotá - Sierra Bella,Santiago
+1248,UF,1690,1,1,32.0,Centro Histórico De Santiago,Santiago
+1249,UF,2500,2,1,47.0,Santa Isabel,Santiago
+1250,UF,4000,3,2,3.0,Santa Isabel,Santiago
+1251,UF,2450,2,1,51.0,Centro Histórico De Santiago,Santiago
+1252,UF,2850,2,2,48.0,Centro Histórico De Santiago,Santiago
+1253,UF,1990,1,1,34.0,Centro Histórico De Santiago,Santiago
+1254,UF,2200,2,1,43.0,San Diego,Santiago
+1255,UF,3250,2,1,48.0,San Diego,Santiago
+1256,UF,2355,1,1,33.0,Barrio Diez De Julio,Santiago
+1257,UF,1950,1,1,32.0,Santa Isabel,Santiago
+1258,UF,2100,1,1,30.0,Santa Isabel,Santiago
+1259,UF,3200,2,2,50.0,Centro Histórico De Santiago,Santiago
+1260,UF,3060,2,2,47.0,Centro Histórico De Santiago,Santiago
+1261,UF,1900,1,1,34.0,Centro Histórico De Santiago,Santiago
+1262,UF,3500,2,2,52.0,Centro Histórico De Santiago,Santiago
+1263,UF,1995,1,1,36.0,Centro Histórico De Santiago,Santiago
+1264,UF,2900,2,2,46.0,Barrio Brasil,Santiago
+1265,UF,2200,1,1,34.0,Centro Histórico De Santiago,Santiago
+1266,UF,2000,1,1,34.0,Centro Histórico De Santiago,Santiago
+1267,UF,3200,2,2,54.0,Centro Histórico De Santiago,Santiago
+1268,UF,2250,1,1,34.0,Centro Histórico De Santiago,Santiago
+1269,UF,3050,2,2,50.0,Centro Histórico De Santiago,Santiago
+1270,UF,2450,2,1,47.0,Centro Histórico De Santiago,Santiago
+1271,UF,3000,2,2,52.0,Barrio República,Santiago
+1272,UF,3700,3,2,62.0,Santa Isabel,Santiago
+1273,UF,3400,2,2,48.0,Santa Isabel,Santiago
+1274,UF,3600,2,1,47.0,Centro Histórico De Santiago,Santiago
+1275,UF,3700,2,2,3.0,Centro Histórico De Santiago,Santiago
+1276,UF,2300,1,1,34.0,Centro Histórico De Santiago,Santiago
+1277,UF,2350,3,2,68.0,Barrio Brasil,Santiago
+1278,UF,3450,2,1,58.0,Santa Isabel,Santiago
+1279,UF,2900,2,2,51.0,Santa Isabel,Santiago
+1280,UF,1990,1,1,34.0,Centro Histórico De Santiago,Santiago
+1281,UF,1900,1,1,36.0,Bulnes,Santiago
+1282,UF,2300,1,1,34.0,Centro Histórico De Santiago,Santiago
+1283,UF,1995,1,1,39.0,Santa Isabel,Santiago
+1284,UF,1850,1,1,32.0,San Diego,Santiago
+1285,UF,3250,2,1,46.0,Parque Los Reyes,Santiago
+1286,$,60000000,1,1,30.0,Departamento en venta | Central Departamento En Venta De 1 Dorm A Pasos De La Moneda | $ | 60.000.000 | 1 dormitorio | 1 baño | 30 m² útiles | Santiago,Bulnes
+1287,UF,2300,1,1,34.0,Centro Histórico De Santiago,Santiago
+1288,UF,1740,1,1,38.0,San Diego,Santiago
+1289,UF,1995,1,1,37.0,Centro Histórico De Santiago,Santiago
+1290,UF,2090,1,1,34.0,Centro Histórico De Santiago,Santiago
+1291,UF,2200,1,1,34.0,Centro Histórico De Santiago,Santiago
+1292,UF,1850,1,1,30.0,Santa Isabel,Santiago
+1293,UF,2200,1,1,34.0,Centro Histórico De Santiago,Santiago
+1294,UF,2380,1,1,32.0,Centro Histórico De Santiago,Santiago
+1295,UF,2750,2,1,51.0,Centro Histórico De Santiago,Santiago
+1296,UF,1850,1,1,34.0,Bulnes,Santiago
+1297,UF,2800,2,2,48.0,Centro Histórico De Santiago,Santiago
+1298,UF,2200,1,1,3.0,Centro Histórico De Santiago,Santiago
+1299,UF,1990,2,1,43.0,Parque O'Higgins,Santiago
+1300,UF,5900,3,3,102.0,Centro Histórico De Santiago,Santiago
+1301,UF,4200,3,2,60.0,Bulnes,Santiago
+1302,$,95000000,2,2,50.0,Bulnes,Santiago
+1303,UF,2490,2,2,47.0,Barrio Diez De Julio,Santiago
+1304,UF,4300,3,2,60.0,Santa Isabel,Santiago
+1305,UF,3200,2,1,40.0,San Diego,Santiago
+1306,UF,1500,1,1,34.0,Centro Histórico De Santiago,Santiago
+1307,UF,1500,1,1,28.0,Centro Histórico De Santiago,Santiago
+1308,UF,1490,1,1,38.0,Centro Histórico De Santiago,Santiago
+1309,UF,2600,2,1,43.0,Bogotá - Sierra Bella,Santiago
+1310,UF,2600,1,1,40.0,San Diego,Santiago
+1311,UF,3770,1,1,50.0,Centro Histórico De Santiago,Santiago
+1312,UF,1750,1,1,30.0,Santa Isabel,Santiago
+1313,UF,1950,1,1,32.0,Centro Histórico De Santiago,Santiago
+1314,UF,1800,1,1,32.0,Bulnes,Santiago
+1315,UF,1700,1,1,35.0,San Diego,Santiago
+1316,UF,3700,3,2,61.0,Parque O'Higgins,Santiago
+1317,UF,2890,2,2,56.0,Centro Histórico De Santiago,Santiago
+1318,UF,2475,1,1,32.0,Centro Histórico De Santiago,Santiago
+1319,$,100000000,2,1,35.0,Parque O'Higgins,Santiago
+1320,UF,2700,1,1,40.0,San Diego,Santiago
+1321,UF,1650,1,1,35.0,San Diego,Santiago
+1322,UF,2900,2,2,35.0,Parque Almagro,Santiago
+1323,UF,2679,1,1,35.0,Bogotá - Sierra Bella,Santiago
+1324,$,90000000,2,1,43.0,Barrio República,Santiago
+1325,UF,2612,1,1,49.0,Parque Almagro,Santiago
+1326,UF,3300,1,1,34.0,Bogotá - Sierra Bella,Santiago
+1327,UF,1999,1,1,39.0,Parque O'Higgins,Santiago
+1328,UF,2475,1,1,56.0,Parque Los Reyes,Santiago
+1329,UF,2091,1,1,25.0,Departamento en venta | Departamento En Venta De 1 Dorm. En Quinta Normal | UF | 2.091 | 1 dormitorio | 1 baño | 25 m² totales | Metro Gruta Lourdes,Santiago
+1330,UF,2700,1,1,27.0,Parque Los Reyes,Santiago
+1331,UF,2587,1,1,25.0,Bulnes,Santiago
+1332,UF,2556,1,1,47.0,Santa Isabel,Santiago
+1333,UF,3131,1,1,36.0,Ejército - Toesca,Santiago
+1334,UF,2850,1,1,34.0,Bulnes,Santiago
+1335,UF,3855,2,2,47.0,Bulnes,Santiago
+1336,UF,3063,1,1,30.0,San Diego,Santiago
+1337,UF,2900,1,1,30.0,Santa Isabel,Santiago
+1338,UF,3290,2,2,56.0,Parque O'Higgins,Santiago
+1339,$,90000000,2,1,45.0,Centro Histórico De Santiago,Santiago
+1340,UF,3762,2,2,4.447,Santa Isabel,Santiago
+1341,UF,2590,1,1,26.0,Parque Almagro,Santiago
+1342,UF,3099,2,1,46.0,Parque Almagro,Santiago
+1343,UF,2591,1,1,29.0,Departamento en venta | Departamento En Venta De 1 Dorm. En Quinta Normal | UF | 2.591 | 1 dormitorio | 1 baño | 29 m² útiles | Metro Gruta Lourdes,Santiago
+1344,UF,2900,2,1,56.0,Centro Histórico De Santiago,Santiago
+1345,UF,2000,1,1,33.0,Departamento en venta | Departamento En Venta De 1 Dorm. En Santiago | UF | 2.000 | 1 dormitorio | 1 baño | 33 m² útiles | Santiago,Barrio Yungay
+1346,UF,3300,2,2,54.0,Parque O'Higgins,Santiago
+1347,$,89000000,1,1,37.0,Ejército - Toesca,Santiago
+1348,$,83000000,2,2,58.0,Parque Los Reyes,Santiago
+1349,UF,5650,3,2,81.0,Barrio Diez De Julio,Santiago
+1350,UF,2185,2,2,40.0,Parque O'Higgins,Santiago
+1351,UF,1790,2,1,43.0,Barrio Yungay,Santiago
+1352,UF,2600,1,1,47.0,Centro Histórico De Santiago,Santiago
+1353,UF,2300,1,1,38.0,San Diego,Santiago
+1354,UF,2400,1,1,36.0,Barrio Diez De Julio,Santiago
+1355,UF,1800,1,1,30.0,Centro Histórico De Santiago,Santiago
+1356,UF,2300,2,2,45.0,Parque Almagro,Santiago
+1357,UF,3050,2,2,59.0,Barrio Diez De Julio,Santiago
+1358,UF,2550,1,1,33.0,Parque Almagro,Santiago
+1359,UF,1950,1,1,33.0,Bogotá - Sierra Bella,Santiago
+1360,UF,1950,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1361,$,64000000,1,1,33.0,Bulnes,Santiago
+1362,UF,1950,1,1,33.0,Bogotá - Sierra Bella,Santiago
+1363,UF,2490,3,1,69.0,Barrio Diez De Julio,Santiago
+1364,UF,2750,2,1,65.0,Barrio Brasil,Santiago
+1365,UF,3400,3,2,70.0,Barrio Brasil,Santiago
+1366,UF,3150,2,2,54.0,Santa Isabel,Santiago
+1367,UF,1900,1,1,5.0,Centro Histórico De Santiago,Santiago
+1368,UF,2700,2,2,42.0,Santa Isabel,Santiago
+1369,UF,3510,2,2,68.0,Parque Los Reyes,Santiago
+1370,UF,2100,2,1,55.0,Parque O'Higgins,Santiago
+1371,UF,3400,1,1,2.0,Barrio Diez De Julio,Santiago
+1372,UF,1900,1,1,34.0,San Diego,Santiago
+1373,UF,1980,1,1,34.0,San Diego,Santiago
+1374,UF,4074,2,2,56.0,Centro Histórico De Santiago,Santiago
+1375,UF,2350,1,1,42.0,Santa Isabel,Santiago
+1376,UF,2000,1,1,32.0,Bogotá - Sierra Bella,Santiago
+1377,UF,2460,2,2,45.0,Parque Almagro,Santiago
+1378,UF,2300,2,1,43.0,Barrio Yungay,Santiago
+1379,UF,2900,2,2,46.0,Centro Histórico De Santiago,Santiago
+1380,UF,1950,1,1,33.0,Centro Histórico De Santiago,Santiago
+1381,UF,3990,2,2,57.0,Santa Isabel,Santiago
+1382,UF,1550,1,1,35.0,Centro Histórico De Santiago,Santiago
+1383,UF,2500,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1384,UF,2400,1,1,31.0,Santa Isabel,Santiago
+1385,UF,3850,2,2,55.0,Bogotá - Sierra Bella,Santiago
+1386,$,70000000,1,1,30.0,Barrio Diez De Julio,Santiago
+1387,UF,2390,2,1,48.0,Centro Histórico De Santiago,Santiago
+1388,UF,2800,3,2,60.0,900 - 1200,Santiago
+1389,UF,12000,2,2,80.0,Barrio República,Santiago
+1390,UF,3000,2,1,42.0,Bogotá - Sierra Bella,Santiago
+1391,UF,2200,3,2,50.0,Bogotá - Sierra Bella,Santiago
+1392,UF,2190,3,2,50.0,Bogotá - Sierra Bella,Santiago
+1393,UF,2350,1,1,32.0,Santa Isabel,Santiago
+1394,UF,2350,1,1,32.0,Santa Isabel,Santiago
+1395,UF,2800,3,2,61.0,San Diego,Santiago
+1396,UF,2090,1,1,19.0,Barrio Brasil,Santiago
+1397,UF,1890,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1398,UF,3980,3,2,70.0,Santa Isabel,Santiago
+1399,UF,2500,1,1,22.0,Santa Isabel,Santiago
+1400,UF,2090,1,1,29.0,San Diego,Santiago
+1401,UF,1990,2,1,42.0,Bogotá - Sierra Bella,Santiago
+1402,UF,2090,1,1,19.0,Barrio Brasil,Santiago
+1403,UF,1800,1,1,32.0,Santa Isabel,Santiago
+1404,UF,2600,2,2,44.0,Santa Isabel,Santiago
+1405,UF,3700,2,2,58.0,Santa Isabel,Santiago
+1406,UF,2050,1,1,29.0,Departamento en venta | Oportunidad Se Acepta Subsidio | UF | 2.050 | 1 dormitorio | 1 baño | 29 m² útiles | Santiago,Bulnes
+1407,UF,1490,1,1,29.0,Bulnes,Santiago
+1408,UF,4300,3,2,76.0,Ejército - Toesca,Santiago
+1409,UF,2765,1,1,34.0,San Diego,Santiago
+1410,UF,2250,1,1,28.0,Bogotá - Sierra Bella,Santiago
+1411,UF,5359,2,2,81.0,Centro Histórico De Santiago,Santiago
+1412,UF,1850,1,1,22.0,Barrio Diez De Julio,Santiago
+1413,UF,2500,1,1,30.0,Barrio San Borja,Santiago
+1414,UF,2470,2,2,57.0,Parque Almagro,Santiago
+1415,UF,2700,3,1,58.0,Centro Histórico De Santiago,Santiago
+1416,UF,3900,3,2,70.0,Santa Isabel,Santiago
+1417,UF,2280,1,1,36.0,Parque O'Higgins,Santiago
+1418,$,92000000,2,1,49.0,Bulnes,Santiago
+1419,$,74000000,2,1,48.0,Parque Los Reyes,Santiago
+1420,UF,1850,1,1,32.0,Bogotá - Sierra Bella,Santiago
+1421,UF,1750,1,1,42.0,Parque O'Higgins,Santiago
+1422,$,62000000,1,1,28.0,Centro Histórico De Santiago,Santiago
+1423,$,55000000,1,1,46.0,Centro Histórico De Santiago,Santiago
+1424,UF,2860,2,2,48.0,San Diego,Santiago
+1425,UF,7720,5,2,140.0,Barrio Lastarria,Santiago
+1426,UF,16500,3,3,270.0,Barrio Lastarria,Santiago
+1427,UF,3200,3,2,51.0,Centro Histórico De Santiago,Santiago
+1428,UF,3100,1,1,53.0,Centro Histórico De Santiago,Santiago
+1429,UF,2800,1,1,53.0,Centro Histórico De Santiago,Santiago
+1430,UF,3490,2,2,52.0,Parque Almagro,Santiago
+1431,UF,3050,1,1,28.0,Barrio Diez De Julio,Santiago
+1432,UF,2050,1,1,32.0,San Diego,Santiago
+1433,UF,2398,1,1,37.0,Santa Isabel,Santiago
+1434,UF,1850,1,1,33.0,Centro Histórico De Santiago,Santiago
+1435,UF,2380,2,2,362.0,Barrio Diez De Julio,Santiago
+1436,UF,3100,3,1,78.0,Barrio San Borja,Santiago
+1437,UF,3680,3,2,91.0,Bulnes,Santiago
+1438,$,140000000,3,2,91.0,Bulnes,Santiago
+1439,UF,3150,2,2,55.0,Parque O'Higgins,Santiago
+1440,UF,2990,2,1,52.0,Santa Isabel,Santiago
+1441,$,85000000,2,2,61.0,Parque Almagro,Santiago
+1442,UF,1650,1,1,29.0,Bulnes,Santiago
+1443,$,85000000,2,2,55.0,Santa Isabel,Santiago
+1444,$,92000000,2,1,58.0,Bulnes,Santiago
+1445,$,129990990,3,2,71.0,Santa Isabel,Santiago
+1446,UF,1990,2,2,39.0,Bulnes,Santiago
+1447,UF,2649,2,2,55.0,Parque O'Higgins,Santiago
+1448,$,255000000,6,4,209.0,Parque Almagro,Santiago
+1449,UF,2816,2,1,62.0,San Diego,Santiago
+1450,UF,2650,1,1,37.0,Barrio República,Santiago
+1451,UF,4100,2,2,51.0,Barrio Diez De Julio,Santiago
+1452,UF,5500,4,3,161.0,Barrio San Borja,Santiago
+1453,UF,8550,5,2,285.0,Barrio San Borja,Santiago
+1454,UF,3200,3,2,64.0,San Diego,Santiago
+1455,UF,1800,1,1,35.0,Centro Histórico De Santiago,Santiago
+1456,UF,1800,1,1,35.0,Centro Histórico De Santiago,Santiago
+1457,UF,1990,1,1,30.0,Centro Histórico De Santiago,Santiago
+1458,UF,3200,2,2,40.0,Centro Histórico De Santiago,Santiago
+1459,UF,1990,1,1,38.0,Bulnes,Santiago
+1460,UF,3400,2,2,68.0,Santa Isabel,Santiago
+1461,UF,7450,5,3,185.0,Centro Histórico De Santiago,Santiago
+1462,UF,2105,1,1,36.0,Santa Isabel,Santiago
+1463,UF,1990,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1464,UF,2450,2,1,41.0,Barrio Diez De Julio,Santiago
+1465,UF,1850,1,1,32.0,Ejército - Toesca,Santiago
+1466,UF,3300,2,2,49.0,Ejército - Toesca,Santiago
+1467,UF,4750,3,2,77.0,Santiago | UF | 4.750 | 3 dormitorios | 2 baños | 77 m² útiles | Ejército - Toesca,Santiago
+1468,UF,1990,1,1,29.0,Bulnes,Santiago
+1469,UF,1990,1,1,38.0,Bulnes,Santiago
+1470,UF,2240,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1471,UF,6000,3,2,95.0,Barrio Lastarria,Santiago
+1472,UF,1900,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1473,UF,1900,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1474,UF,1900,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1475,UF,2290,1,1,34.0,Bogotá - Sierra Bella,Santiago
+1476,$,250000000,2,2,79.0,Barrio Lastarria,Santiago
+1477,$,74000000,2,2,61.0,Parque Los Reyes,Santiago
+1478,UF,5400,2,1,106.0,Barrio Yungay,Santiago
+1479,UF,1200,1,1,18.0,Bulnes,Santiago
+1480,UF,3200,2,2,40.0,Centro Histórico De Santiago,Santiago
+1481,UF,4920,2,2,73.0,Franklin - Biobío,Santiago
+1482,UF,2300,2,2,50.0,San Diego,Santiago
+1483,UF,1900,2,1,48.0,Centro Histórico De Santiago,Santiago
+1484,UF,9990,1,1,30.0,Centro Histórico De Santiago,Santiago
+1485,UF,2000,1,1,32.0,Ejército - Toesca,Santiago
+1486,UF,3300,2,2,62.0,Barrio República,Santiago
+1487,UF,2025,1,1,43.0,Bogotá - Sierra Bella,Santiago
+1488,UF,3400,2,2,50.0,Santa Isabel,Santiago
+1489,$,68900000,1,1,34.0,Bulnes,Santiago
+1490,UF,1700,1,1,28.0,Barrio Brasil,Santiago
+1491,UF,2100,1,1,34.0,Santa Isabel,Santiago
+1492,UF,1950,1,1,35.0,Santiago | UF | 1.950 | 1 dormitorio | 1 baño | 35 m² útiles | Santa Isabel,Santiago
+1493,$,119900000,2,2,57.0,Barrio República,Santiago
+1494,UF,2691,2,2,56.0,Metro Santa Ana. Santiago | UF | 2.691 | 2 dormitorios | 2 baños | 56 m² útiles | Centro Histórico De Santiago,Santiago
+1495,UF,2480,2,2,44.0,Ejército - Toesca,Santiago
+1496,UF,1950,2,1,36.0,Parque O'Higgins,Santiago
+1497,$,60000000,1,1,35.0,Centro Histórico De Santiago,Santiago
+1498,UF,2150,2,2,44.0,Bogotá - Sierra Bella,Santiago
+1499,UF,1750,1,1,37.0,Bulnes,Santiago
+1500,UF,2450,2,2,44.0,Bogotá - Sierra Bella,Santiago
+1501,UF,1850,2,1,37.0,Parque O'Higgins,Santiago
+1502,UF,4000,2,2,65.0,Ejército - Toesca,Santiago
+1503,UF,3300,2,2,48.0,Metro Santa Isabel. | UF | 3.300 | 2 dormitorios | 2 baños | 48 m² útiles | Santa Isabel,Santiago
+1504,UF,2450,2,1,53.0,Departamento en venta | Departamento 2 D 1b Metro Cal Y Canto Santiago | UF | 2.450 | 2 dormitorios | 1 baño | 53 m² útiles | Centro Histórico De Santiago,Santiago
+1505,UF,1890,1,1,33.0,Bulnes,Santiago
+1506,$,86000000,2,1,43.0,Departamento en venta | Inversión! Depto Metro San Ana Santiago | $ | 86.000.000 | 2 dormitorios | 1 baño | 43 m² útiles | Barrio República,Santiago
+1507,UF,1800,1,1,37.0,Centro Histórico De Santiago,Santiago
+1508,UF,2690,2,1,51.0,Departamento en venta | Departamento 2 D Metro Santiago Vista | UF | 2.690 | 2 dormitorios | 1 baño | 51 m² útiles | Centro Histórico De Santiago,Santiago
+1509,UF,3900,2,2,50.0,Franklin - Biobío,Santiago
+1510,UF,2250,2,2,45.0,Santa Isabel,Santiago
+1511,UF,1840,1,1,29.0,Departamento en venta | Departamento 1d 1b Piscina Vista Santiago | UF | 1.840 | 1 dormitorio | 1 baño | 29 m² útiles | Barrio Diez De Julio,Santiago
+1512,UF,2150,1,1,32.0,Barrio San Borja,Santiago
+1513,UF,1640,2,1,33.0,Bogotá - Sierra Bella,Santiago
+1514,UF,1890,1,1,31.0,Centro Histórico De Santiago,Santiago
+1515,UF,3800,2,1,54.0,Parque Los Reyes,Santiago
+1516,UF,2000,1,1,35.0,Departamento en venta | 22757 - Inversion / Calle Santo Domingo/ Santiago Centro | Por Borquez Y Asociados | UF | 2.000 | Publicado hoy | 1 dormitorio | 1 baño | 35 m² útiles | Centro Histórico De Santiago,Santiago
+1517,UF,2900,2,2,87.0,Centro Histórico De Santiago,Santiago
+1518,UF,1600,1,1,39.0,Centro Histórico De Santiago,Santiago
+1519,UF,1650,1,1,34.0,Centro Histórico De Santiago,Santiago
+1520,UF,1450,1,1,29.0,Barrio Yungay,Santiago
+1521,UF,2280,1,1,33.0,Centro Histórico De Santiago,Santiago
+1522,UF,1690,1,1,27.0,Centro Histórico De Santiago,Santiago
+1523,UF,1800,2,1,41.0,Parque O'Higgins,Santiago
+1524,UF,1750,1,1,34.0,Centro Histórico De Santiago,Santiago
+1525,UF,2200,1,1,28.0,Departamento en venta | Departamento 1 Dormitorio Terraza Metro Matta | UF | 2.200 | 1 dormitorio | 1 baño | 28 m² útiles | San Diego,Santiago
+1526,UF,3200,2,2,55.0,San Diego,Santiago
+1527,UF,2300,2,2,42.0,Santa Isabel,Santiago
+1528,$,82000000,2,2,43.0,Parque Almagro,Santiago
+1529,UF,1580,1,1,35.0,Barrio Yungay,Santiago
+1530,UF,1900,1,1,32.0,Centro Histórico De Santiago,Santiago
+1531,$,87000000,3,1,48.0,Barrio Brasil Santiago | $ | 87.000.000 | 3 dormitorios | 1 baño | 48 m² útiles | Barrio Brasil,Santiago
+1532,UF,1650,1,1,28.0,Departamento en venta | Departamento 1 Dormitorio 1 Baño Barrio República. | UF | 1.650 | 1 dormitorio | 1 baño | 28 m² útiles | Bulnes,Santiago
+1533,UF,2450,2,1,61.0,Centro Histórico De Santiago,Santiago
+1534,UF,11900,4,3,223.0,Centro Histórico De Santiago,Santiago
+1535,$,142000000,3,2,78.0,San Diego,Santiago
+1536,UF,11500,4,3,215.0,Barrio Lastarria,Santiago
+1537,UF,2000,1,1,35.0,Parque Almagro,Santiago
+1538,UF,10000,4,2,158.0,Barrio Lastarria,Santiago
+1539,UF,2100,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1540,UF,2100,2,1,46.0,Parque Los Reyes,Santiago
+1541,UF,4700,3,2,70.0,Barrio Brasil,Santiago
+1542,$,75000000,1,1,35.0,Barrio República,Santiago
+1543,UF,2550,2,2,63.0,Santa Isabel,Santiago
+1544,UF,1800,1,1,35.0,Parque Almagro,Santiago
+1545,UF,2990,2,2,43.0,Ejército - Toesca,Santiago
+1546,UF,7000,4,3,160.0,Bulnes,Santiago
+1547,UF,2990,2,2,60.0,Parque O'Higgins,Santiago
+1548,UF,1500,1,1,27.0,Bulnes,Santiago
+1549,$,55000000,1,1,28.0,Santa Isabel,Santiago
+1550,UF,2690,1,1,32.0,Santa Isabel,Santiago
+1551,$,86000000,1,2,49.0,Centro Histórico De Santiago,Santiago
+1552,UF,2200,1,1,33.0,Bogotá - Sierra Bella,Santiago
+1553,UF,3950,2,2,45.0,Centro Histórico De Santiago,Santiago
+1554,UF,2500,1,1,49.0,Centro Histórico De Santiago,Santiago
+1555,UF,3600,2,2,49.0,Bulnes,Santiago
+1556,UF,13000,3,3,182.0,Centro Histórico De Santiago,Santiago
+1557,UF,3500,2,2,47.0,Ejército - Toesca,Santiago
+1558,$,50000000,1,1,45.0,San Diego,Santiago
+1559,UF,4950,2,2,83.0,Centro Histórico De Santiago,Santiago
+1560,UF,3100,1,1,44.0,Centro Histórico De Santiago,Santiago
+1561,UF,5290,2,2,81.0,Centro Histórico De Santiago,Santiago
+1562,UF,2350,1,1,34.0,Centro Histórico De Santiago,Santiago
+1563,$,76000000,1,1,28.0,Barrio Diez De Julio,Santiago
+1564,UF,2700,1,1,32.0,Bogotá - Sierra Bella,Santiago
+1565,UF,1990,20,1,38.0,Parque O'Higgins,Santiago
+1566,UF,2150,1,1,34.0,Centro Histórico De Santiago,Santiago
+1567,UF,3590,2,2,54.0,Bogotá - Sierra Bella,Santiago
+1568,UF,3000,2,2,50.0,San Diego,Santiago
+1569,UF,2790,2,1,40.0,San Diego,Santiago
+1570,UF,2400,1,1,34.0,Centro Histórico De Santiago,Santiago
+1571,$,87000000,2,1,48.0,Parque Los Reyes,Santiago
+1572,UF,3400,2,2,52.0,Barrio Lastarria,Santiago
+1573,UF,4390,5,2,110.0,Centro Histórico De Santiago,Santiago
+1574,UF,1990,2,1,44.0,Centro Histórico De Santiago,Santiago
+1575,$,80750000,2,2,60.0,Barrio Yungay,Santiago
+1576,UF,1650,1,1,29.0,Centro Histórico De Santiago,Santiago
+1577,UF,1750,1,1,34.0,Centro Histórico De Santiago,Santiago
+1578,UF,2690,3,2,61.0,Santa Isabel,Santiago
+1579,UF,1550,1,1,36.0,Centro Histórico De Santiago,Santiago
+1580,UF,1987,1,1,38.0,Bulnes,Santiago
+1581,UF,1990,1,1,38.0,Bulnes,Santiago
+1582,UF,1500,1,1,27.0,Barrio República,Santiago
+1583,UF,2500,2,2,47.0,Parque Almagro,Santiago
+1584,UF,3100,3,2,62.0,Parque Almagro,Santiago
+1585,UF,2300,2,2,61.0,San Diego,Santiago
+1586,UF,1850,1,1,30.0,Centro Histórico De Santiago,Santiago
+1587,UF,1955,1,1,36.0,San Diego,Santiago
+1588,UF,2342,3,1,60.0,Parque O'Higgins,Santiago
+1589,$,130000000,3,2,70.0,Centro Histórico De Santiago,Santiago
+1590,UF,3900,1,1,42.0,Santa Isabel,Santiago
+1591,UF,2800,2,2,50.0,Santa Isabel,Santiago
+1592,UF,1480,1,1,32.0,Bulnes,Santiago
+1593,UF,3400,2,2,50.0,Barrio Diez De Julio,Santiago
+1594,UF,3100,2,2,52.0,Parque Los Reyes,Santiago
+1595,UF,2100,1,1,35.0,Santa Isabel,Santiago
+1596,UF,2632,2,2,47.0,Parque O'Higgins,Santiago
+1597,UF,2150,2,1,52.0,Bulnes,Santiago
+1598,$,52000000,1,1,22.0,Barrio San Borja,Santiago
+1599,UF,3100,3,2,70.0,Parque Los Reyes,Santiago
+1600,$,95000000,2,2,50.0,Santa Isabel,Santiago
+1601,UF,3400,2,2,55.0,Santa Isabel,Santiago
+1602,$,62000000,1,1,40.0,Centro Histórico De Santiago,Santiago
+1603,$,67900000,1,1,35.0,Centro Histórico De Santiago,Santiago
+1604,UF,2800,2,1,50.0,Santa Isabel,Santiago
+1605,UF,2000,1,1,30.0,Santa Isabel,Santiago
+1606,UF,3300,2,1,49.0,Barrio Diez De Julio,Santiago
+1607,UF,2174,1,2,44.0,Parque Almagro,Santiago
+1608,$,115000000,2,2,65.0,Centro Histórico De Santiago,Santiago
+1609,UF,3950,2,2,52.0,Ejército - Toesca,Santiago
+1610,UF,2527,2,1,50.0,Bogotá - Sierra Bella,Santiago
+1611,UF,2500,2,1,53.0,Parque Almagro,Santiago
+1612,UF,3000,1,1,47.0,Centro Histórico De Santiago,Santiago
+1613,UF,2500,1,1,35.0,Ejército - Toesca,Santiago
+1614,UF,1500,1,1,35.0,Centro Histórico De Santiago,Santiago
+1615,UF,3322,3,2,65.0,Barrio Brasil,Santiago
+1616,$,77000000,1,1,23.0,Parque Los Reyes,Santiago
+1617,UF,10000,4,3,165.0,Centro Histórico De Santiago,Santiago
+1618,UF,2700,3,2,53.0,Barrio Diez De Julio,Santiago
+1619,UF,2940,2,1,51.0,Barrio Brasil,Santiago
+1620,UF,2058,2,1,49.0,Centro Histórico De Santiago,Santiago
+1621,$,80000000,1,1,35.0,San Diego,Santiago
+1622,UF,2676,3,2,56.0,Barrio Brasil,Santiago
+1623,UF,1550,1,1,30.0,Santa Isabel,Santiago
+1624,UF,2200,2,1,45.0,Centro Histórico De Santiago,Santiago
+1625,UF,3800,2,2,49.0,Centro Histórico De Santiago,Santiago
+1626,UF,2200,1,1,31.0,Santa Isabel,Santiago
+1627,UF,2605,2,2,52.0,Franklin - Biobío,Santiago
+1628,UF,2300,2,1,45.0,Bulnes,Santiago
+1629,UF,1824,1,1,40.0,Barrio Diez De Julio,Santiago
+1630,UF,3000,2,1,50.0,Santa Isabel,Santiago
+1631,UF,2600,2,2,42.0,Franklin - Biobío,Santiago
+1632,UF,3900,3,2,57.0,Santa Isabel,Santiago
+1633,UF,23500,4,3,325.0,Barrio Lastarria,Santiago
+1634,$,68000000,1,1,26.0,Santa Isabel,Santiago
+1635,$,125000000,3,2,67.0,Santa Isabel,Santiago
+1636,UF,2345,2,1,45.0,San Diego,Santiago
+1637,UF,21000,3,2,280.0,Barrio Lastarria,Santiago
+1638,$,78000000,1,1,45.0,Centro Histórico De Santiago,Santiago
+1639,UF,2200,1,1,36.0,Parque Los Reyes,Santiago
+1640,UF,3950,2,2,67.0,Bogotá - Sierra Bella,Santiago
+1641,UF,3100,2,2,60.0,Centro Histórico De Santiago,Santiago
+1642,$,188000000,1,2,169.0,Centro Histórico De Santiago,Santiago
+1643,UF,3600,2,2,60.0,Centro Histórico De Santiago,Santiago
+1644,UF,3050,2,2,58.0,Santa Isabel,Santiago
+1645,$,125000000,2,1,54.0,Ejército - Toesca,Santiago
+1646,UF,2500,1,1,33.0,Centro Histórico De Santiago,Santiago
+1647,UF,2715,2,2,58.0,Barrio Yungay,Santiago
+1648,UF,4900,2,2,74.0,Centro Histórico De Santiago,Santiago
+1649,$,62990000,1,1,34.0,Barrio Diez De Julio,Santiago
+1650,UF,1832,1,1,25.0,San Diego,Santiago
+1651,$,89500000,3,2,60.0,Parque Los Reyes,Santiago
+1652,$,85000000,2,2,54.0,San Diego,Santiago
+1653,$,62000000,1,1,32.0,Barrio Brasil,Santiago
+1654,UF,3500,3,2,70.0,Centro Histórico De Santiago,Santiago
+1655,UF,2800,2,2,49.0,Santa Isabel,Santiago
+1656,UF,3700,3,2,55.0,Parque Los Reyes,Santiago
+1657,UF,1800,1,1,33.0,Ejército - Toesca,Santiago
+1658,UF,2990,2,1,6.446,Barrio República,Santiago
+1659,UF,2000,1,1,35.0,Santa Isabel,Santiago
+1660,$,90000000,3,2,74.0,Barrio Yungay,Santiago
+1661,UF,2008,1,1,28.0,Centro Histórico De Santiago,Santiago
+1662,UF,2518,2,2,54.0,Barrio Yungay,Santiago
+1663,UF,2290,2,1,42.0,Parque O'Higgins,Santiago
+1664,UF,2650,2,1,45.0,San Diego,Santiago
+1665,UF,2200,1,1,35.0,San Diego,Santiago
+1666,UF,1730,1,1,30.0,Santa Isabel,Santiago
+1667,UF,3190,2,2,51.0,Bogotá - Sierra Bella,Santiago
+1668,UF,1650,2,1,41.0,Parque O'Higgins,Santiago
+1669,UF,2800,2,2,58.0,Bulnes,Santiago
+1670,$,68000000,1,1,37.0,Centro Histórico De Santiago,Santiago
+1671,UF,1850,3,1,43.0,Parque O'Higgins,Santiago
+1672,UF,2100,1,1,33.0,Centro Histórico De Santiago,Santiago
+1673,UF,2900,2,2,45.0,Bulnes,Santiago
+1674,$,70000000,1,1,27.0,Santa Isabel,Santiago
+1675,UF,1700,1,1,36.0,Barrio República,Santiago
+1676,UF,3200,2,1,45.0,Barrio Diez De Julio,Santiago
+1677,UF,2180,3,2,51.0,Parque Los Reyes,Santiago
+1678,$,109000000,4,2,80.0,Barrio Brasil,Santiago
+1679,$,78000000,2,2,40.0,Bogotá - Sierra Bella,Santiago
+1680,$,140000000,4,4,150.0,Centro Histórico De Santiago,Santiago
+1681,$,80000000,1,1,25.0,Centro Histórico De Santiago,Santiago
+1682,UF,1780,1,1,24.0,San Diego,Santiago
+1683,UF,1700,1,1,30.0,San Diego,Santiago
+1684,UF,2800,2,1,47.0,Parque Los Reyes,Santiago
+1685,UF,2600,2,1,85.0,Centro Histórico De Santiago,Santiago
+1686,UF,3150,2,2,56.0,Parque Almagro,Santiago
+1687,UF,3000,2,1,42.0,Ejército - Toesca,Santiago
+1688,UF,2490,1,1,34.0,Santa Isabel,Santiago
+1689,UF,2699,2,2,50.0,Centro Histórico De Santiago,Santiago
+1690,UF,1700,2,1,37.0,Barrio Yungay,Santiago
+1691,UF,2350,2,1,50.0,Departamento en venta | Departamento En Venta De 2 Dorm. En Santiago | Por One Propiedades | UF | 2.350 | 2 dormitorios | 1 baño | 50 m² útiles | Los Héroes | Depto En Venta | 2D 1B | Santiago | One Propiedades,Santiago
+1692,$,98000000,3,1,46.0,Santa Isabel,Santiago
+1693,$,98000000,3,1,46.0,Santa Isabel,Santiago
+1694,UF,3126,2,2,51.0,Centro Histórico De Santiago,Santiago
+1695,UF,3300,2,2,58.0,Bogotá - Sierra Bella,Santiago
+1696,UF,3069,2,1,64.0,Barrio San Borja,Santiago
+1697,UF,2175,1,1,32.0,Bulnes,Santiago
+1698,UF,1970,1,1,31.0,Bogotá - Sierra Bella,Santiago
+1699,UF,2362,2,1,42.0,San Diego,Santiago
+1700,UF,2400,2,2,62.0,San Diego,Santiago
+1701,UF,1790,1,1,40.0,Centro Histórico De Santiago,Santiago
+1702,$,64000000,1,1,38.0,Centro Histórico De Santiago,Santiago
+1703,UF,2495,2,2,42.0,Bulnes,Santiago
+1704,UF,2200,2,1,46.0,Parque Almagro,Santiago
+1705,UF,4455,2,2,45.0,San Diego,Santiago
+1706,UF,1500,1,1,30.0,Barrio Yungay,Santiago
+1707,UF,2000,1,1,35.0,Parque Almagro,Santiago
+1708,UF,1490,1,1,30.0,Santa Isabel,Santiago
+1709,UF,1974,3,1,46.0,Parque Almagro,Santiago
+1710,$,165000000,2,2,55.0,Santa Isabel,Santiago
+1711,$,80000000,2,1,50.0,Bogotá - Sierra Bella,Santiago
+1712,UF,2300,1,1,35.0,Santa Isabel,Santiago
+1713,UF,2500,1,1,45.0,Centro Histórico De Santiago,Santiago
+1714,UF,3399,2,2,59.0,Bulnes,Santiago
+1715,UF,3500,1,1,28.0,Ejército - Toesca,Santiago
+1716,UF,5800,3,2,130.0,Barrio Lastarria,Santiago
+1717,UF,1700,1,1,30.0,Santa Isabel,Santiago
+1718,UF,2600,2,1,48.0,Centro Histórico De Santiago,Santiago
+1719,UF,2280,1,1,35.0,Centro Histórico De Santiago,Santiago
+1720,UF,2000,1,1,32.0,Centro Histórico De Santiago,Santiago
+1721,$,60000000,1,1,40.0,Barrio Diez De Julio,Santiago
+1722,UF,1800,1,1,23.0,Centro Histórico De Santiago,Santiago
+1723,UF,1600,1,1,40.0,Club Hípico,Santiago
+1724,UF,2200,1,1,28.0,Centro Histórico De Santiago,Santiago
+1725,UF,3130,2,2,52.0,Bogotá - Sierra Bella,Santiago
+1726,UF,2100,2,1,36.0,Barrio Diez De Julio,Santiago
+1727,UF,1979,1,1,39.0,Barrio Yungay,Santiago
+1728,UF,2250,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1729,$,105000000,2,1,46.0,Ejército - Toesca,Santiago
+1730,UF,2390,1,1,34.0,Departamento en venta | Venta Dp. Arrendado Inversion 1d1b Eyzaguirre 771 | UF | 2.390 | 1 dormitorio | 1 baño | 34 m² útiles | San Diego,Santiago
+1731,UF,3200,2,2,53.0,Santa Isabel,Santiago
+1732,UF,1700,1,1,31.0,Bulnes,Santiago
+1733,UF,2980,2,2,56.0,Santa Isabel,Santiago
+1734,UF,2670,2,2,48.0,Santa Isabel,Santiago
+1735,UF,1800,1,1,31.0,Parque Almagro,Santiago
+1736,UF,2750,2,1,72.0,Centro Histórico De Santiago,Santiago
+1737,UF,2000,2,1,45.0,Departamento en venta | Venta Depto. Metro Matta 2 D 1 B Más Bodega | UF | 2.000 | 2 dormitorios | 1 baño | 45 m² totales | Parque O'Higgins,Santiago
+1738,$,79000000,2,1,45.0,Parque Almagro,Santiago
+1739,$,73500000,1,1,34.0,Santa Isabel,Santiago
+1740,UF,3800,2,2,42.0,Departamento en venta | Se Vende Hermoso Dpto Santiago Centro - 2d/2b/1e | UF | 3.800 | 2 dormitorios | 2 baños | 42 m² útiles | Barrio Diez De Julio,Santiago
+1741,UF,3200,2,2,55.0,Santa Isabel,Santiago
+1742,UF,2110,2,2,45.0,Centro Histórico De Santiago,Santiago
+1743,UF,2755,2,2,47.0,Santa Isabel,Santiago
+1744,UF,2800,2,2,44.0,Departamento en venta | Venta Departamento 2d2b - Lira Cerca Uc | UF | 2.800 | 2 dormitorios | 2 baños | 44 m² útiles | Santa Isabel,Santiago
+1745,UF,2550,2,1,45.0,Departamento en venta | Venta Lindo Dpto. 2d 1b E Santiago | UF | 2.550 | 2 dormitorios | 1 baño | 45 m² útiles | Parque O'Higgins,Santiago
+1746,UF,2590,2,1,48.0,Departamento en venta | Depto 2d1b En San Isidro A Minutos Del Metro Sta Lucía | Por Coldwell Banker | UF | 2.590 | 2 dormitorios | 1 baño | 48 m² útiles | Santa Isabel,Santiago
+1747,$,104990000,1,1,35.0,Departamento en venta | Se Vende Hermoso Dpto Stgo Centro - San Francisco | $ | 104.990.000 | 1 dormitorio | 1 baño | 35 m² útiles | San Diego,Santiago
+1748,UF,2200,2,1,47.0,Departamento en venta | Venta Departamento Santiago Centro Barrio Universitario | Por Coldwell Banker | UF | 2.200 | Publicado hoy | 2 dormitorios | 1 baño | 47 m² útiles | Barrio Brasil,Santiago
+1749,UF,2080,3,2,49.0,Departamento en venta | Rebajado Depto. 3d 2b. Est. Bod Metro Franklin | UF | 2.080 | 3 dormitorios | 2 baños | 49 m² útiles | Franklin - Biobío,Santiago
+1750,$,115900000,2,1,44.0,Departamento en venta | Se Vende Dpto Santiago Centro - Lord Cochrane 298 | $ | 115.900.000 | 2 dormitorios | 1 baño | 44 m² útiles | Bulnes,Santiago
+1751,UF,1845,1,1,29.0,Centro Histórico De Santiago,Santiago
+1752,UF,1600,1,1,26.0,Departamento en venta | Oportunidad Venta Depto. 1d 1b San Diego | UF | 1.600 | 1 dormitorio | 1 baño | 26 m² útiles | Bulnes,Santiago
+1753,UF,2930,3,1,97.0,Barrio Yungay,Santiago
+1754,UF,1450,1,1,29.0,Centro Histórico De Santiago,Santiago
+1755,UF,1656,1,1,32.0,Barrio Yungay,Santiago
+1756,UF,4350,3,2,120.0,Departamento en venta | Departamento Versátil En Ubicación Estratégica Santiago | Por Coldwell Banker | UF | 4.350 | Publicado esta semana | 3 dormitorios | 2 baños | 120 m² útiles | Centro Histórico De Santiago,Santiago
+1757,UF,1619,1,1,34.0,Bulnes,Santiago
+1758,UF,1840,2,1,38.0,Bogotá - Sierra Bella,Santiago
+1759,UF,1350,1,1,18.0,Santa Isabel,Santiago
+1760,$,70000000,1,1,40.0,Departamento en venta | Hermoso Departamento Para Inversion | Por Coldwell Banker | $ | 70.000.000 | 1 dormitorio | 1 baño | 40 m² útiles | Santa Isabel,Santiago
+1761,UF,1800,1,1,28.0,Departamento en venta | Venta Dpto. 1 Dor + 1baño Metro Matta Santiago | UF | 1.800 | 1 dormitorio | 1 baño | 28 m² útiles | Parque O'Higgins,Santiago
+1762,UF,1550,1,1,27.0,Centro Histórico De Santiago,Santiago
+1763,UF,6490,4,2,118.0,Departamento en venta | Departamento En Clásico  Barrio Lastarria | Por Coldwell Banker | UF | 6.490 | 4 dormitorios | 2 baños | 118 m² útiles | Barrio Lastarria,Santiago
+1764,UF,3830,2,2,65.0,Parque Los Reyes,Santiago
+1765,UF,1717,1,1,38.0,Barrio Yungay,Santiago
+1766,UF,2100,2,2,43.0,Departamento en venta | Venta Depto. En Santiago Bajó De Precio | UF | 2.100 | 2 dormitorios | 2 baños | 43 m² útiles | Franklin - Biobío,Santiago
+1767,UF,23000,3,4,300.0,Centro Histórico De Santiago,Santiago
+1768,UF,3300,2,2,54.0,Centro Histórico De Santiago,Santiago
+1769,UF,11900,4,3,223.0,Centro Histórico De Santiago,Santiago
+1770,$,125000000,2,1,39.0,Estacionmto | $ | 125.000.000 | 2 dormitorios | 1 baño | 39 m² útiles | Santiago,Santa Isabel
+1771,UF,2400,1,1,42.0,Centro Histórico De Santiago,Santiago
+1772,UF,1990,1,1,45.0,Barrio Yungay,Santiago
+1773,UF,3500,3,2,72.0,Parque Los Reyes,Santiago
+1774,$,88000000,1,1,42.0,Parque Almagro,Santiago
+1775,$,74500000,2,1,56.0,Parque Los Reyes,Santiago
+1776,$,121000000,3,2,53.0,Barrio Diez De Julio,Santiago
+1777,$,99000000,2,1,53.0,Bogotá - Sierra Bella,Santiago
+1778,UF,3300,1,1,40.0,Barrio Yungay,Santiago
+1779,UF,3600,2,2,52.0,Centro Histórico De Santiago,Santiago
+1780,UF,1750,1,1,37.0,Parque O'Higgins,Santiago
+1781,UF,1700,1,1,28.0,Parque O'Higgins,Santiago
+1782,UF,1500,1,1,23.0,Parque O'Higgins,Santiago
+1783,UF,1670,1,1,39.0,Entre Matta Y Victoria 1d+1b | Por Coldwell Banker | UF | 1.670 | 1 dormitorio | 1 baño | 39 m² útiles | Barrio República,Santiago
+1784,UF,2700,1,1,32.0,Bogotá - Sierra Bella,Santiago
+1785,UF,1850,1,1,33.0,Departamento en venta | Departamento Seminuevo En  Calle San Martin | Por Coldwell Banker | UF | 1.850 | 1 dormitorio | 1 baño | 33 m² útiles | Centro Histórico De Santiago,Santiago
+1786,UF,1912,1,1,26.0,Centro Histórico De Santiago,Santiago
+1787,UF,1750,2,1,36.0,Parque Almagro,Santiago
+1788,UF,1250,1,1,28.0,Centro Histórico De Santiago,Santiago
+1789,UF,3243,1,1,35.0,Departamento en venta | Invierte Sin Pie!! Entrega Inmediata 1 Dormitorio | Por Coldwell Banker | UF | 3.243 | 1 dormitorio | 1 baño | 35 m² útiles | Parque Los Reyes,Santiago
+1790,UF,2300,2,1,42.0,Departamento en venta | Departamento En Venta  Santiago Centro | Por Coldwell Banker | UF | 2.300 | 2 dormitorios | 1 baño | 42 m² útiles | Parque O'Higgins,Santiago
+1791,$,108000000,2,2,54.0,Centro Histórico De Santiago,Santiago
+1792,UF,3750,2,2,68.0,Departamento en venta | Vive En El Corazón De Santiago: Terraza Y Comodidad | Por Coldwell Banker | UF | 3.750 | 2 dormitorios | 2 baños | 68 m² útiles | Santa Isabel,Santiago
+1793,UF,2900,1,1,40.0,San Diego,Santiago
+1794,UF,5990,3,2,79.0,Centro Histórico De Santiago,Santiago
+1795,UF,1399,1,1,32.0,Centro Histórico De Santiago,Santiago
+1796,UF,1990,2,1,40.0,Parque O'Higgins,Santiago
+1797,UF,1820,1,1,35.0,Bulnes,Santiago
+1798,UF,2400,2,1,47.0,Santa Isabel,Santiago
+1799,UF,2590,1,1,36.0,Barrio Diez De Julio,Santiago
+1800,UF,3690,2,2,61.0,San Diego,Santiago
+1801,UF,4350,3,2,78.0,Centro Histórico De Santiago,Santiago
+1802,UF,1583,1,1,26.0,Centro Histórico De Santiago,Santiago
+1803,UF,4290,2,2,52.0,Santa Isabel,Santiago
+1804,UF,2650,1,1,33.0,Barrio Brasil,Santiago
+1805,UF,2650,1,1,41.0,Bulnes,Santiago
+1806,UF,2319,3,2,64.0,Parque Los Reyes,Santiago
+1807,UF,3850,3,2,74.0,Centro Histórico De Santiago,Santiago
+1808,UF,3700,3,2,52.0,Parque O'Higgins,Santiago
+1809,UF,1860,1,1,33.0,Centro Histórico De Santiago,Santiago
+1810,UF,2400,1,1,36.0,Barrio Yungay,Santiago
+1811,UF,3195,1,1,31.0,Parque O'Higgins,Santiago
+1812,UF,3500,2,2,60.0,Bulnes,Santiago
+1813,$,60000000,1,1,30.0,Bulnes,Santiago
+1814,UF,3109,1,1,30.0,Santa Isabel,Santiago
+1815,UF,4208,2,2,40.0,Santa Isabel,Santiago
+1816,$,62000000,1,1,38.0,Centro Histórico De Santiago,Santiago
+1817,$,75000000,1,1,33.0,Parque Almagro,Santiago
+1818,UF,1390,2,1,33.0,Barrio Brasil,Santiago
+1819,UF,2550,3,2,66.0,Barrio Brasil,Santiago
+1820,UF,2400,1,1,35.0,Centro Histórico De Santiago,Santiago
+1821,UF,2300,1,1,35.0,Centro Histórico De Santiago,Santiago
+1822,UF,2900,1,1,29.0,San Diego,Santiago
+1823,UF,1990,1,1,32.0,Barrio Yungay,Santiago
+1824,UF,2950,2,2,50.0,Centro Histórico De Santiago,Santiago
+1825,UF,3990,2,2,60.0,Ejército - Toesca,Santiago
+1826,UF,2989,2,1,60.0,Bulnes,Santiago
+1827,UF,2400,2,1,46.0,Barrio Diez De Julio,Santiago
+1828,$,130000000,2,2,52.0,Santa Isabel,Santiago
+1829,UF,2900,2,2,57.0,Centro Histórico De Santiago,Santiago
+1830,UF,2116,1,1,30.0,Barrio República,Santiago
+1831,UF,2850,2,2,50.0,Bulnes,Santiago
+1832,UF,1550,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1833,UF,3055,1,1,40.0,Parque O'Higgins,Santiago
+1834,UF,2908,2,2,41.0,San Diego,Santiago
+1835,UF,3800,2,2,61.0,Departamento en venta | ¡impecable! Depto. Con 2 Terrazas En Metro Toesca | Por Coldwell Banker | UF | 3.800 | Publicado esta semana | 2 dormitorios | 2 baños | 61 m² útiles | Ejército - Toesca,Santiago
+1836,UF,2990,2,2,61.0,San Diego,Santiago
+1837,$,48000000,1,1,31.0,Centro Histórico De Santiago,Santiago
+1838,UF,3980,2,1,58.0,Barrio Diez De Julio,Santiago
+1839,UF,2531,1,1,21.0,San Diego,Santiago
+1840,UF,3699,2,2,64.0,Centro Histórico De Santiago,Santiago
+1841,UF,2490,2,2,48.0,Bulnes,Santiago
+1842,UF,2300,1,1,33.0,Parque Almagro,Santiago
+1843,UF,2800,1,1,32.0,Barrio Brasil,Santiago
+1844,UF,1600,1,1,27.0,San Diego,Santiago
+1845,UF,1650,1,1,28.0,Departamento en venta | Oportunidad A Pasos Del Metro Santa Ana | Por Coldwell Banker | UF | 1.650 | Publicado esta semana | 1 dormitorio | 1 baño | 28 m² útiles | Centro Histórico De Santiago,Santiago
+1846,UF,1650,1,1,28.0,Bulnes,Santiago
+1847,$,78000000,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1848,UF,2530,2,2,41.0,Santa Isabel,Santiago
+1849,$,70601000,1,1,32.0,Centro Histórico De Santiago,Santiago
+1850,UF,2235,1,1,18.0,Ejército - Toesca,Santiago
+1851,UF,2160,1,1,21.0,Parque O'Higgins,Santiago
+1852,UF,1680,1,1,24.0,Parque Almagro,Santiago
+1853,UF,2500,1,1,35.0,Barrio Diez De Julio,Santiago
+1854,UF,1750,1,1,32.0,Santa Isabel,Santiago
+1855,UF,1450,1,1,35.0,Centro Histórico De Santiago,Santiago
+1856,UF,2500,2,2,55.0,Barrio Diez De Julio,Santiago
+1857,UF,1750,1,1,32.0,Santa Isabel,Santiago
+1858,$,120000000,1,1,68.0,Departamento en venta | Amplia Terraza Y Estacionamiento| Parque De Los Reyes | Por Coldwell Banker | $ | 120.000.000 | Publicado esta semana | 1 dormitorio | 1 baño | 68 m² útiles | Parque Los Reyes,Santiago
+1859,UF,1700,1,1,40.0,Departamento en venta | Oportunidad Aire Acondicionado Y Amoblado | Por Coldwell Banker | UF | 1.700 | 1 dormitorio | 1 baño | 40 m² útiles | Parque Almagro,Santiago
+1860,$,65000000,1,1,26.0,Centro Histórico De Santiago,Santiago
+1861,UF,1700,1,1,27.0,Bogotá - Sierra Bella,Santiago
+1862,$,89990990,2,1,50.0,Parque O'Higgins,Santiago
+1863,$,140000000,1,2,70.0,Centro Histórico De Santiago,Santiago
+1864,$,73490000,1,1,36.0,San Diego,Santiago
+1865,UF,2870,1,1,35.0,Parque Almagro,Santiago
+1866,UF,3078,1,1,32.0,Parque O'Higgins,Santiago
+1867,UF,2151,1,1,38.0,Bogotá - Sierra Bella,Santiago
+1868,UF,1200,2,1,41.0,Parque O'Higgins,Santiago
+1869,$,109990990,2,2,50.0,Centro Histórico De Santiago,Santiago
+1870,UF,2550,2,1,45.0,Centro Histórico De Santiago,Santiago
+1871,$,61000000,1,1,28.0,Parque O'Higgins,Santiago
+1872,UF,2700,1,1,25.0,San Diego,Santiago
+1873,UF,2900,2,2,46.0,Franklin - Biobío,Santiago
+1874,UF,2000,1,1,30.0,Santa Isabel,Santiago
+1875,UF,2300,1,1,36.0,Centro Histórico De Santiago,Santiago
+1876,$,99990900,2,1,45.0,Centro Histórico De Santiago,Santiago
+1877,UF,2100,1,1,30.0,Santa Isabel,Santiago
+1878,UF,3099,2,1,45.0,San Diego,Santiago
+1879,UF,1850,1,1,30.0,Parque Almagro,Santiago
+1880,UF,1991,1,1,34.0,Centro Histórico De Santiago,Santiago
+1881,UF,2990,2,2,59.0,Parque Almagro,Santiago
+1882,UF,1635,1,1,37.0,Barrio Yungay,Santiago
+1883,UF,3185,2,1,53.0,Bulnes,Santiago
+1884,UF,4434,4,2,106.0,Franklin - Biobío,Santiago
+1885,UF,3000,2,2,60.0,Barrio República,Santiago
+1886,UF,4300,2,2,83.0,Centro Histórico De Santiago,Santiago
+1887,UF,1895,2,1,47.0,Santa Isabel,Santiago
+1888,UF,4211,4,2,103.0,Franklin - Biobío,Santiago
+1889,UF,2170,2,2,57.0,Parque Los Reyes,Santiago
+1890,$,92000000,2,1,47.0,Santa Isabel,Santiago
+1891,UF,2800,2,2,58.0,San Diego,Santiago
+1892,UF,1860,1,1,33.0,San Diego,Santiago
+1893,UF,2700,1,1,44.0,Centro Histórico De Santiago,Santiago
+1894,UF,2100,1,1,30.0,Santa Isabel,Santiago
+1895,UF,3900,3,2,65.0,Santa Isabel,Santiago
+1896,UF,1850,1,1,39.0,Barrio Brasil,Santiago
+1897,UF,2050,1,1,35.0,Centro Histórico De Santiago,Santiago
+1898,UF,3100,2,2,40.0,Centro Histórico De Santiago,Santiago
+1899,UF,1750,2,1,39.0,Centro Histórico De Santiago,Santiago
+1900,UF,3900,2,2,75.0,Barrio Brasil,Santiago
+1901,UF,2990,2,2,59.0,Parque Los Reyes,Santiago
+1902,$,68000000,1,1,35.0,Parque O'Higgins,Santiago
+1903,UF,1400,1,1,22.0,Centro Histórico De Santiago,Santiago
+1904,UF,2000,2,1,43.0,Parque O'Higgins,Santiago
+1905,UF,1890,1,1,33.0,Santa Isabel,Santiago
+1906,UF,2950,1,1,29.0,Parque Almagro,Santiago
+1907,UF,2450,2,2,43.0,Departamento en venta | Oportunidad!!! 2d - San Francisco | Por Coldwell Banker | UF | 2.450 | 2 dormitorios | 2 baños | 43 m² útiles | Bulnes,Santiago
+1908,$,60000000,1,1,30.0,Parque Almagro,Santiago
+1909,UF,2430,1,1,31.0,Parque O'Higgins,Santiago
+1910,UF,2195,3,1,47.0,Franklin - Biobío,Santiago
+1911,UF,2900,1,1,28.0,Bogotá - Sierra Bella,Santiago
+1912,UF,3131,1,1,28.0,Bogotá - Sierra Bella,Santiago
+1913,$,115000000,2,2,66.0,Santa Isabel,Santiago
+1914,UF,2970,2,1,46.0,Parque O'Higgins,Santiago
+1915,UF,1980,1,1,22.0,Parque O'Higgins,Santiago
+1916,UF,2550,1,1,29.0,San Diego,Santiago
+1917,$,155000000,3,2,96.0,Santa Isabel,Santiago
+1918,$,123000000,2,2,60.0,Bogotá - Sierra Bella,Santiago
+1919,UF,3890,1,3,102.0,Santa Isabel,Santiago
+1920,UF,2500,3,2,58.0,Parque O'Higgins,Santiago
+1921,UF,2690,1,1,35.0,Barrio Diez De Julio,Santiago
+1922,$,65000000,1,1,31.0,Barrio Brasil,Santiago
+1923,UF,2500,1,,42.0,Ejército - Toesca,Santiago
+1924,UF,2522,2,2,50.0,Bogotá - Sierra Bella,Santiago
+1925,UF,1850,1,1,20.0,Parque O'Higgins,Santiago
+1926,UF,1890,2,1,40.0,Santa Isabel,Santiago
+1927,UF,2990,3,2,50.0,San Diego,Santiago
+1928,$,82000000,3,1,56.0,Club Hípico,Santiago
+1929,UF,3200,1,1,28.0,Bogotá - Sierra Bella,Santiago
+1930,UF,2700,1,1,33.0,Santa Isabel,Santiago
+1931,UF,2590,1,1,35.0,Santa Isabel,Santiago
+1932,UF,4330,3,2,56.0,Chile,Santiago
+1933,UF,1200,1,1,16.0,Parque Almagro,Santiago
+1934,UF,1834,1,1,35.0,Centro Histórico De Santiago,Santiago
+1935,UF,2280,1,1,38.0,Parque Almagro,Santiago
+1936,UF,2750,1,1,31.0,Parque O'Higgins,Santiago
+1937,$,75000000,2,1,44.0,Barrio Yungay,Santiago
+1938,$,65000000,1,1,23.0,Parque Almagro,Santiago
+1939,$,144000000,2,2,62.0,Santa Isabel,Santiago
+1940,UF,3460,2,2,48.0,Bulnes,Santiago
+1941,UF,3050,1,1,26.0,Barrio Diez De Julio,Santiago
+1942,UF,1277,1,1,30.0,Parque Los Reyes,Santiago
+1943,UF,11500,5,8,361.0,Centro Histórico De Santiago,Santiago
+1944,UF,2665,2,2,48.0,Santa Isabel,Santiago
+1945,UF,2850,1,1,29.0,San Diego,Santiago
+1946,UF,2100,2,1,38.0,Bogotá - Sierra Bella,Santiago
+1947,UF,1690,1,1,35.0,Centro Histórico De Santiago,Santiago
+1948,UF,2250,1,1,33.0,Barrio Diez De Julio,Santiago
+1949,UF,2100,1,1,24.0,Santa Isabel,Santiago
+1950,UF,1600,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1951,UF,3300,1,1,72.0,Centro Histórico De Santiago,Santiago
+1952,UF,2770,1,1,29.0,San Diego,Santiago
+1953,UF,8600,2,2,115.0,Barrio Lastarria,Santiago
+1954,UF,6000,1,1,55.0,San Diego,Santiago
+1955,UF,3500,3,2,77.0,Parque O'Higgins,Santiago
+1956,UF,2550,2,2,51.0,Barrio República,Santiago
+1957,UF,1900,1,1,35.0,Centro Histórico De Santiago,Santiago
+1958,UF,1930,1,1,30.0,Bogotá - Sierra Bella,Santiago
+1959,UF,2050,2,2,50.0,Santa Isabel,Santiago
+1960,UF,2998,1,1,44.0,Centro Histórico De Santiago,Santiago
+1961,UF,2399,1,1,31.0,Santa Isabel,Santiago
+1962,UF,2400,2,1,40.0,Bogotá - Sierra Bella,Santiago
+1963,UF,2751,2,2,50.0,Centro Histórico De Santiago,Santiago
+1964,UF,2600,2,1,44.0,Santa Isabel,Santiago
+1965,$,88000000,2,2,55.0,Centro Histórico De Santiago,Santiago
+1966,UF,2133,1,1,36.0,Barrio República,Santiago
+1967,UF,1550,1,1,27.0,Santa Isabel,Santiago
+1968,$,60000000,1,1,35.0,Barrio Yungay,Santiago
+1969,UF,1700,1,1,30.0,Bulnes,Santiago
+1970,UF,6600,2,2,114.0,Centro Histórico De Santiago,Santiago
+1971,UF,1700,1,1,29.0,Santa Isabel,Santiago
+1972,$,73750000,3,2,51.0,Parque Los Reyes,Santiago
+1973,UF,2800,3,2,71.0,Bulnes,Santiago
+1974,UF,2200,1,1,33.0,San Diego,Santiago
+1975,UF,3200,1,1,33.0,San Diego,Santiago
+1976,UF,2682,1,1,22.0,Departamento en venta | Concepto Innovador En Santiago Centro | Por Coldwell Banker | UF | 2.682 | 1 dormitorio | 1 baño | 22 m² útiles | Santa Isabel,Santiago
+1977,UF,3073,1,1,30.0,Departamento en venta | Hermoso Concepto Arquitectónica En El Centro De Santiago | Por Coldwell Banker | UF | 3.073 | 1 dormitorio | 1 baño | 30 m² útiles | Bulnes,Santiago
+1978,UF,3119,1,1,32.0,Departamento en venta | Concepto Innovador En Santiago Centro | Por Coldwell Banker | UF | 3.119 | 1 dormitorio | 1 baño | 32 m² útiles | Santa Isabel,Santiago
+1979,UF,4000,2,2,44.0,Departamento en venta | Concepto Innovador En Santiago Centro | Por Coldwell Banker | UF | 4.000 | 2 dormitorios | 2 baños | 44 m² útiles | Santa Isabel,Santiago
+1980,UF,3946,2,1,41.0,Departamento en venta | Concepto Innovador En Santiago Centro | Por Coldwell Banker | UF | 3.946 | 2 dormitorios | 1 baño | 41 m² útiles | Santa Isabel,Santiago
+1981,UF,2850,3,2,77.0,Centro Histórico De Santiago,Santiago
+1982,UF,2050,2,2,55.0,Centro Histórico De Santiago,Santiago
+1983,UF,3200,2,2,50.0,Ejército - Toesca,Santiago
+1984,UF,3200,2,2,48.0,Bulnes,Santiago
+1985,UF,2550,2,2,44.0,Barrio Diez De Julio,Santiago
+1986,UF,2823,1,1,31.0,Departamento en venta | Departamento En Venta En Santiago | UF | 2.823 | 1 dormitorio | 1 baño | 31 m² útiles | Corte Suprema,Santiago
+1987,UF,1468,1,1,35.0,Parque Los Reyes,Santiago
+1988,UF,1950,1,1,34.0,San Diego,Santiago
+1989,UF,2300,3,2,64.0,Parque Almagro,Santiago
+1990,UF,2995,1,1,45.0,Centro Histórico De Santiago,Santiago
+1991,$,64000000,3,1,45.0,Parque Los Reyes,Santiago
+1992,UF,3550,3,2,65.0,San Diego,Santiago
+1993,UF,2730,2,1,43.0,Centro Histórico De Santiago,Santiago
+1994,UF,2981,1,1,29.0,Bogotá - Sierra Bella,Santiago
+1995,UF,1735,1,1,33.0,Centro Histórico De Santiago,Santiago
+1996,UF,3800,3,2,65.0,Santa Isabel,Santiago
+1997,$,80900000,2,1,44.0,Santa Isabel,Santiago
+1998,$,120000000,3,2,68.0,Centro Histórico De Santiago,Santiago
+1999,UF,1950,1,1,45.0,Santa Isabel,Santiago
+2000,UF,2981,1,1,29.0,Bogotá - Sierra Bella,Santiago
+2001,UF,3650,2,2,56.0,Santa Isabel,Santiago
+2002,UF,2000,1,1,31.0,San Diego,Santiago
+2003,UF,3244,2,2,56.0,Parque O'Higgins,Santiago
+2004,UF,1700,1,1,33.0,Bulnes,Santiago
+2005,UF,2350,1,1,31.0,San Diego,Santiago
+2006,UF,3224,1,1,29.0,Ejército - Toesca,Santiago
+2007,UF,2120,1,1,34.0,Santa Isabel,Santiago
+2008,UF,2447,1,1,21.0,Bogotá - Sierra Bella,Santiago
+2009,UF,1875,1,1,35.0,Centro Histórico De Santiago,Santiago
+2010,UF,1700,1,1,30.0,Parque Almagro,Santiago
+2011,UF,2924,1,1,31.0,Departamento en venta | Departamento En Venta De 1 Dorm. En Santiago | UF | 2.924 | 1 dormitorio | 1 baño | 31 m² útiles | Corte Suprema,Santiago
+2012,UF,1940,1,1,26.0,Centro Histórico De Santiago,Santiago
+2013,UF,2926,1,1,29.0,Bogotá - Sierra Bella,Santiago
+2014,UF,3200,3,2,65.0,Santa Isabel,Santiago
+2015,UF,2530,1,1,21.0,Bogotá - Sierra Bella,Santiago
