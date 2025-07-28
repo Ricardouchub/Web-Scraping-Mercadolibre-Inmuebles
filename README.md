@@ -1,6 +1,6 @@
-# Análisis del Mercado Inmobiliario en Santiago (Julio 2025)
+# Análisis del Mercado Inmobiliario en la comuna de Santiago (Julio 2025)
 
-Este proyecto presenta un análisis exploratorio de datos (EDA) sobre el mercado de venta de departamentos en la comuna de Santiago. Los datos fueron obtenidos mediante técnicas de web scraping del portal **Mercado Libre Inmuebles** durante la última semana de julio de 2025.
+Este proyecto presenta un análisis exploratorio de datos (EDA) sobre el mercado de venta de departamentos en la comuna de Santiago. Los datos fueron obtenidos mediante técnicas de web scraping del portal **Mercado Libre Inmuebles** durante el día 26 de julio de 2025.
 
 El objetivo principal es transformar datos brutos y no estructurados obtenidos de titulares de anuncios en insights claros y visualizaciones que permitan entender los factores clave (sin tener en cuenta la localización, ni antigüedad, ni materiales de construccion, etc) que influyen en los precios y caracterizar la oferta actual del mercado.
 
