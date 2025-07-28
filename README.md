@@ -32,7 +32,7 @@ El proyecto está dividido en dos fases principales, cada una documentada en su 
     * Se generaron visualizaciones con **Matplotlib** y **Seaborn** para responder las preguntas clave y comunicar los hallazgos.
 
 ---
-## Tecnologías Utilizadas
+## Herramientas
 
 * **Python**
 * **Librerías Principales:**
