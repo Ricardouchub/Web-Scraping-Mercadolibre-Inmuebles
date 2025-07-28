@@ -1,11 +1,13 @@
 # Análisis del Mercado Inmobiliario en la comuna de Santiago 
 
-Este proyecto presenta un análisis exploratorio de datos (EDA) sobre el mercado de venta de departamentos en la comuna de Santiago. Los datos fueron obtenidos mediante técnicas de web scraping del portal **Mercado Libre Inmuebles** durante el día 26 de julio de 2025.
+Este es un proyecto personal enfocado en demostrar el ciclo de vida completo de un proyecto de datos: desde la extracción (Web Scraping) y limpieza, hasta el análisis exploratorio (EDA) y la visualización de hallazgos.
+
+Se analiza una pequeña parte del mercado de venta de departamentos en la coimuna de Santiago de la última semana de julio utilizando datos de Mercado Libre para identificar patrones y factores clave que influyen en los precios. **Es importante destacar que este es un ejercicio para demostrar habilidades técnicas y no constituye un estudio de mercado inmobiliario exhaustivo ni profundo.**
 
 El objetivo principal es transformar datos brutos y no estructurados obtenidos de titulares de anuncios en insights claros y visualizaciones que permitan entender los factores clave (sin tener en cuenta la localización, ni antigüedad, ni materiales de construccion, etc) que influyen en los precios y caracterizar la oferta actual del mercado.
 
 ---
-##  Objetivo del Análisis
+##  Objetivo 
 
 Identificar y cuantificar los factores que más influyen en el precio de venta de los departamentos en Santiago. A través de este análisis, se busca responder a las siguientes preguntas clave:
 
@@ -48,7 +50,7 @@ El proyecto está dividido en dos fases principales, cada una documentada en su 
 * `/data`: Carpeta que contiene los datasets generados.
 
 ---
-## 📊 Resultados y Visualizaciones Clave
+## Visualizaciones preliminares
 
 <img width="704" height="432" alt="image" src="https://github.com/user-attachments/assets/f825ad24-014f-413a-9d27-d49ae6fa1436" />
 
