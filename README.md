@@ -51,12 +51,11 @@ El proyecto está dividido en dos fases principales, cada una documentada en su 
 ---
 ## 📊 Resultados y Visualizaciones Clave
 
-*(Aquí puedes añadir capturas de tus mejores gráficos. Sube las imágenes a una carpeta en tu repositorio y luego referéncialas así)*
+<img width="704" height="432" alt="image" src="https://github.com/user-attachments/assets/f825ad24-014f-413a-9d27-d49ae6fa1436" />
 
-**Distribución del Precio por Metro Cuadrado**
-![Distribución del Precio por m²](ruta/a/tu/imagen_del_histograma.png)
 
-**Relación entre Superficie y Precio**
-![Relación Superficie y Precio](ruta/a/tu/imagen_del_scatterplot.png)
+
+<img width="602" height="434" alt="image" src="https://github.com/user-attachments/assets/cbfbb361-a126-416c-bbd0-ff0591327b3c" />
+
 
 ---
