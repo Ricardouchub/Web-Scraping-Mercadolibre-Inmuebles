@@ -1,6 +1,4 @@
 # Análisis del Mercado Inmobiliario en la comuna de Santiago 
-Autor: Ricardo Urdaneta
-Fecha: 26 de julio 2025
 
 Este proyecto presenta un análisis exploratorio de datos (EDA) sobre el mercado de venta de departamentos en la comuna de Santiago. Los datos fueron obtenidos mediante técnicas de web scraping del portal **Mercado Libre Inmuebles** durante el día 26 de julio de 2025.
 
