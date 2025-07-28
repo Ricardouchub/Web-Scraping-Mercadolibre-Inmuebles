@@ -23,7 +23,7 @@ El proyecto está dividido en dos fases principales, cada una documentada en su 
 
 1.  **Parte 1: Web Scraping**
     * Se utilizó **Selenium** para controlar un navegador web y manejar el contenido dinámico del sitio, incluyendo un paso de intervención manual para resolver los pop-ups de ubicación.
-    * Se recorrieron las 42 páginas de resultados para obtener una muestra completa.
+    * Se recorrieron las 42 páginas de resultados para obtener una muestra completa. (con mas de 2000 anuncios)
     * Se aplicó una técnica de "extracción bruta" con **BeautifulSoup** para capturar todo el texto de cada anuncio, asegurando la recolección de datos a pesar de las variaciones en la estructura HTML.
     * El resultado es un archivo CSV con los datos en crudo.
 
