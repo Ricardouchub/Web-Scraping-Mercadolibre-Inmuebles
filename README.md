@@ -34,12 +34,11 @@ El proyecto está dividido en dos fases principales, cada una documentada en su 
 ---
 ## Herramientas
 
-* **Python**
+* **Lenguaje Python**
 * **Librerías Principales:**
     * **Extracción:** Selenium, BeautifulSoup4
     * **Análisis:** Pandas, NumPy
     * **Visualización:** Matplotlib, Seaborn
-* **Entorno:** Jupyter Notebook
 
 ---
 ## Estructura del Repositorio
