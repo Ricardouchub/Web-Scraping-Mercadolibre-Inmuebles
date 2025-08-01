@@ -1,5 +1,8 @@
 # Análisis del Mercado Inmobiliario en la comuna de Santiago 
 
+#### [Notebook Parte 1: Web Scrapping](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%201%20-%20Web%20scraping%20Mercadolibre%20Inmuebles.ipynb)
+#### [Notebook Parte 2: Analisis](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%202%20-%20Limpieza%20y%20Analisis%20Exploratorio%20de%20Datos%20(EDA).ipynb)
+
 Este es un proyecto personal enfocado en demostrar el ciclo de vida completo de un proyecto de datos: desde la extracción (Web Scraping) y limpieza, hasta el análisis exploratorio (EDA) y la visualización de hallazgos.
 
 Se analiza una pequeña parte del mercado de venta de departamentos en la coimuna de Santiago de la última semana de julio utilizando datos de Mercado Libre para identificar patrones y factores clave que influyen en los precios. **Es importante destacar que este es un ejercicio para demostrar habilidades técnicas y no constituye un estudio de mercado inmobiliario exhaustivo ni profundo.**
