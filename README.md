@@ -1,5 +1,13 @@
 # Análisis del Mercado Inmobiliario en la comuna de Santiago 
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyecto_Completado-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Proyecto Completado"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Scrapy-Web_Scraping-23A1D1?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-Parsing_HTML-8B4513?style=flat-square&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Seaborn-Visualización-4C72B0?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn"/>
+</p>
+
 #### [Notebook Parte 1: Web Scrapping](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%201%20-%20Web%20scraping%20Mercadolibre%20Inmuebles.ipynb)
 #### [Notebook Parte 2: Analisis](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%202%20-%20Limpieza%20y%20Analisis%20Exploratorio%20de%20Datos%20(EDA).ipynb)
 
