@@ -62,9 +62,10 @@ El proyecto está dividido en dos fases principales, cada una documentada en su 
 
 ---
 ## Visualizaciones preliminares
+<img width="822" height="738" alt="image" src="https://github.com/user-attachments/assets/98924419-3cbb-42be-ae45-45ec77881646" />
+
 
 <img width="704" height="432" alt="image" src="https://github.com/user-attachments/assets/f825ad24-014f-413a-9d27-d49ae6fa1436" />
-
 
 
 <img width="602" height="434" alt="image" src="https://github.com/user-attachments/assets/cbfbb361-a126-416c-bbd0-ff0591327b3c" />
