@@ -22,7 +22,7 @@ El objetivo principal es transformar datos brutos y no estructurados obtenidos d
 
 Identificar y cuantificar los factores que más influyen en el precio de venta de los departamentos en Santiago. A través de este análisis, se busca responder a las siguientes preguntas clave:
 
-1.  **¿Cuál es la "fotografía" del mercado actual?** 
+1.  **¿Como está actualmente el mercado inmobiliario?** 
 2.  **¿En qué rango de precios se concentra la mayor cantidad de propiedades?**
 3.  **¿Qué características (superficie, dormitorios, baños) impulsan más el valor de una propiedad?**
 4.  **¿Cuál es el valor promedio del metro cuadrado (UF/m²) y cómo se distribuye?**
