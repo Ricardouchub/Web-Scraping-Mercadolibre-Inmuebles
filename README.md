@@ -30,7 +30,7 @@ Identificar y cuantificar los factores que más influyen en el precio de venta d
 ---
 ##  Metodología
 
-El proyecto está dividido en dos fases principales, cada una documentada en su propio Jupyter Notebook:
+El proyecto está dividido en dos fases principales, cada una documentada en su propio Notebook:
 
 1.  **Parte 1: Web Scraping**
     * Se utilizó **Selenium** para controlar un navegador web y manejar el contenido dinámico del sitio, incluyendo un paso de intervención manual para resolver los pop-ups de ubicación.
