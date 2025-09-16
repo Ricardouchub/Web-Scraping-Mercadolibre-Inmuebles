@@ -9,7 +9,7 @@
 </p>
 
 #### [Notebook Parte 1: Web Scrapping](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%201%20-%20Web%20scraping%20Mercadolibre%20Inmuebles.ipynb)
-#### [Notebook Parte 2: Analisis](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%202%20-%20Limpieza%20y%20Analisis%20Exploratorio%20de%20Datos%20(EDA).ipynb)
+#### [Notebook Parte 2: Analisis Exploratorio de Datos](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles/blob/main/Parte%202%20-%20Limpieza%20y%20Analisis%20Exploratorio%20de%20Datos%20(EDA).ipynb)
 
 Este es un proyecto enfocado en demostrar el ciclo de vida completo de un proyecto de datos: desde la extracción (Web Scraping) y limpieza, hasta el análisis exploratorio (EDA) y la visualización de hallazgos.
 
